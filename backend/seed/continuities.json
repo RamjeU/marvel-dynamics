@@ -1,0 +1,6 @@
+[
+  {"id": "earth-616", "name": "Earth-616", "description": "The main Marvel Comics continuity, running continuously since Fantastic Four #1 (1961).", "is_primary": true},
+  {"id": "earth-295", "name": "Earth-295 (Age of Apocalypse)", "description": "Alternate timeline in which Xavier died before founding the X-Men and Apocalypse conquered North America. Age of Apocalypse crossover (1995).", "is_primary": false},
+  {"id": "earth-1610", "name": "Earth-1610 (Ultimate)", "description": "The original Ultimate Marvel universe (2000–2015), a modern-day reboot with younger characters.", "is_primary": false},
+  {"id": "earth-811", "name": "Earth-811 (Days of Future Past)", "description": "Dystopian future first shown in Uncanny X-Men #141–142 (1981), where Sentinels rule North America.", "is_primary": false}
+]

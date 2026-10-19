@@ -1,0 +1,258 @@
+[
+  {
+    "source": "charles-xavier", "target": "magneto", "type": "rivalry", "continuity": "earth-616",
+    "era": "silver-age", "start_issue": "X-Men #1 (1963)", "end_issue": null, "label": "Friends turned ideological rivals",
+    "summary": "The founding conflict of the X-Men. They met as young men in Israel (shown in flashback in Uncanny X-Men #161, 1982), bonded over being mutants, and split over whether coexistence with humans was possible. Every subsequent decade restages the argument; the Krakoan era finally put them on the same council.",
+    "events": [
+      {"issue": "X-Men #1 (1963)", "year": 1963, "note": "Magneto attacks Cape Citadel; the X-Men's first mission is against Xavier's old friend."},
+      {"issue": "Uncanny X-Men #161 (1982)", "year": 1982, "note": "Flashback: Charles and Erik meet in Haifa, fight Baron Strucker together, and part over ideology."},
+      {"issue": "Uncanny X-Men #200 (1985)", "year": 1985, "note": "Xavier, dying, hands Magneto the school and the New Mutants."},
+      {"issue": "X-Men #1–3 (1991)", "year": 1991, "note": "Fatal Attractions prelude; Magneto returns to Asteroid M and dies (apparently) in the fall."},
+      {"issue": "House of X #1 (2019)", "year": 2019, "note": "Xavier and Magneto co-found the mutant nation of Krakoa."}
+    ]
+  },
+  {
+    "source": "cyclops", "target": "jean-grey", "type": "romance", "continuity": "earth-616",
+    "era": "silver-age", "start_issue": "X-Men #1 (1963)", "end_issue": "New X-Men #150 (2004)", "label": "First love, marriage, Phoenix, death",
+    "summary": "The franchise's central romance. A shy mutual crush in 1963 became the marriage in X-Men #30 (1994), was broken by Jean's death as Dark Phoenix, by her resurrection, by Scott's psychic affair with Emma Frost, and by Jean's second death. Her Krakoan return left them cordial co-workers rather than a couple.",
+    "events": [
+      {"issue": "X-Men #1 (1963)", "year": 1963, "note": "Scott's unspoken feelings for Jean are established in the first issue."},
+      {"issue": "Uncanny X-Men #137 (1980)", "year": 1980, "note": "Dark Phoenix Saga ends with Jean's suicide on the Moon to stop herself."},
+      {"issue": "X-Men #30 (1994)", "year": 1994, "note": "Scott and Jean marry."},
+      {"issue": "New X-Men #139 (2003)", "year": 2003, "note": "Jean discovers Scott's psychic affair with Emma."},
+      {"issue": "New X-Men #150 (2004)", "year": 2004, "note": "Jean is killed by Xorn/Magneto; she tells Scott to live."}
+    ]
+  },
+  {
+    "source": "cyclops", "target": "wolverine", "type": "rivalry", "continuity": "earth-616",
+    "era": "claremont", "start_issue": "Giant-Size X-Men #1 (1975)", "end_issue": null, "label": "Rivals for Jean, then for the X-Men",
+    "summary": "Started as a love-triangle rivalry over Jean Grey and became a philosophical one: Logan, the soldier, came to believe children should be kept out of the war; Scott, the field leader, came to believe there was no one else to fight it. The 2011 Schism split the X-Men between them.",
+    "events": [
+      {"issue": "Giant-Size X-Men #1 (1975)", "year": 1975, "note": "Logan joins; friction with Cyclops's leadership is immediate."},
+      {"issue": "Uncanny X-Men #132 (1980)", "year": 1980, "note": "Wolverine's famous 'Now it's my turn' in the Hellfire Club, while Scott is captured."},
+      {"issue": "X-Men: Schism #1–5 (2011)", "year": 2011, "note": "The two fight on Utopia over whether to send students into battle; Wolverine leaves to reopen the school."},
+      {"issue": "Avengers vs. X-Men #11–12 (2012)", "year": 2012, "note": "Logan sides with the Avengers against a Phoenix-possessed Cyclops."}
+    ]
+  },
+  {
+    "source": "wolverine", "target": "jean-grey", "type": "romance", "continuity": "earth-616",
+    "era": "claremont", "start_issue": "X-Men #98 (1976)", "end_issue": null, "label": "Unrequited, mostly",
+    "summary": "Logan's attraction to Jean is written as intense and almost never acted on; Jean's response varies by writer from fond refusal to genuine temptation. The relationship is largely about restraint, and it is consummated only in alternate futures.",
+    "events": [
+      {"issue": "X-Men #98 (1976)", "year": 1976, "note": "Logan's interest in Jean is first made explicit."},
+      {"issue": "New X-Men #148 (2003)", "year": 2003, "note": "Stranded on Asteroid M, Jean and Logan kiss; Logan kills her so the Phoenix will take over and save them."},
+      {"issue": "X-Men: Phoenix – Endsong (2005)", "year": 2005, "note": "Phoenix-Jean seeks out Logan; he refuses her repeatedly."}
+    ]
+  },
+  {
+    "source": "cyclops", "target": "emma-frost", "type": "romance", "continuity": "earth-616",
+    "era": "morrison-whedon", "start_issue": "New X-Men #131 (2002)", "end_issue": "Avengers vs. X-Men #12 (2012)", "label": "Psychic affair to power couple",
+    "summary": "Began as telepathic 'therapy' during Scott's marriage, became an affair, and after Jean's death became the X-Men's leadership couple through the Utopia era. Ended when Phoenix-possessed Scott turned on Emma; they have remained allies with history since.",
+    "events": [
+      {"issue": "New X-Men #131 (2002)", "year": 2002, "note": "Emma offers Scott telepathic counselling; it turns intimate."},
+      {"issue": "New X-Men #154 (2004)", "year": 2004, "note": "Jean, from the future, pushes Scott toward Emma; they kiss on Jean's grave and reopen the school."},
+      {"issue": "Astonishing X-Men #1 (2004)", "year": 2004, "note": "Headmaster and headmistress; the relationship becomes the team's centre."},
+      {"issue": "Avengers vs. X-Men #11 (2012)", "year": 2012, "note": "Scott takes Emma's share of the Phoenix by force."}
+    ]
+  },
+  {
+    "source": "jean-grey", "target": "emma-frost", "type": "rivalry", "continuity": "earth-616",
+    "era": "morrison-whedon", "start_issue": "New X-Men #139 (2003)", "end_issue": null, "label": "Rivals who respect each other",
+    "summary": "A rivalry with uncommon mutual respect. Jean's psychic confrontation with Emma in New X-Men #139 is the high point; by the Krakoan era they are colleagues who occasionally still needle each other about Scott.",
+    "events": [
+      {"issue": "New X-Men #139 (2003)", "year": 2003, "note": "Jean tears through Emma's mind after discovering the affair."},
+      {"issue": "Phoenix Resurrection: The Return of Jean Grey #5 (2018)", "year": 2018, "note": "Jean's return; Emma among those present."}
+    ]
+  },
+  {
+    "source": "storm", "target": "wolverine", "type": "friendship", "continuity": "earth-616",
+    "era": "claremont", "start_issue": "Giant-Size X-Men #1 (1975)", "end_issue": null, "label": "Closest confidants, briefly lovers",
+    "summary": "The two most senior members of the 1975 team, each the other's most trusted colleague. Written as a near-sibling friendship for decades, with a romantic period during Jason Aaron's Wolverine and the X-Men (2012–2014) that the line has mostly treated as a chapter rather than a change.",
+    "events": [
+      {"issue": "Uncanny X-Men #139 (1980)", "year": 1980, "note": "Storm takes over as team leader with Logan's backing."},
+      {"issue": "Wolverine and the X-Men #24 (2013)", "year": 2013, "note": "Storm and Logan begin a relationship."},
+      {"issue": "Death of Wolverine #4 (2014)", "year": 2014, "note": "Logan dies; Storm leads the mourning."}
+    ]
+  },
+  {
+    "source": "storm", "target": "kitty-pryde", "type": "mentorship", "continuity": "earth-616",
+    "era": "claremont", "start_issue": "Uncanny X-Men #129 (1980)", "end_issue": null, "label": "Big sister, then peer",
+    "summary": "Storm was the first adult X-Man Kitty bonded with; the relationship strained when Storm's punk-era change (Uncanny X-Men #173) frightened her, and matured into equals by the time Kitty led the team.",
+    "events": [
+      {"issue": "Uncanny X-Men #129 (1980)", "year": 1980, "note": "Storm recruits Kitty in Deerfield, Illinois."},
+      {"issue": "Uncanny X-Men #173 (1983)", "year": 1983, "note": "Kitty rejects Storm's new look and the two fall out."},
+      {"issue": "Uncanny X-Men #180 (1984)", "year": 1984, "note": "Reconciliation."}
+    ]
+  },
+  {
+    "source": "kitty-pryde", "target": "colossus", "type": "romance", "continuity": "earth-616",
+    "era": "claremont", "start_issue": "Uncanny X-Men #129 (1980)", "end_issue": null, "label": "Decades on and off",
+    "summary": "A teenage crush that became a long, intermittently written romance. Broken off in Secret Wars (1985) when Piotr fell for an alien healer; revived in Astonishing X-Men; nearly ended in marriage in X-Men Gold #30 (2018), when Kitty called it off at the altar.",
+    "events": [
+      {"issue": "Uncanny X-Men #129 (1980)", "year": 1980, "note": "Kitty, 13, is immediately smitten with Piotr."},
+      {"issue": "Secret Wars #7–12 (1984–85)", "year": 1985, "note": "Piotr falls for Zsaji on Battleworld; the relationship ends."},
+      {"issue": "Astonishing X-Men #6 (2004)", "year": 2004, "note": "Colossus returns from apparent death; the romance restarts."},
+      {"issue": "X-Men Gold #30 (2018)", "year": 2018, "note": "Kitty halts the wedding; Rogue and Gambit marry instead."}
+    ]
+  },
+  {
+    "source": "colossus", "target": "magik", "type": "family", "continuity": "earth-616",
+    "era": "claremont", "start_issue": "Giant-Size X-Men #1 (1975)", "end_issue": null, "label": "Brother and sister",
+    "summary": "Piotr's protectiveness and Illyana's transformation into a demon sorceress define the relationship; he keeps trying to see the child she was, and she keeps refusing to be seen that way. Her death in the Legacy Virus storyline (Uncanny X-Men #303, 1993) and later return is one of his central griefs.",
+    "events": [
+      {"issue": "Uncanny X-Men #160 (1982)", "year": 1982, "note": "Illyana is taken to Limbo and returns moments later aged seven years."},
+      {"issue": "Uncanny X-Men #303 (1993)", "year": 1993, "note": "Illyana dies of the Legacy Virus."},
+      {"issue": "New Mutants vol. 3 #1 (2009)", "year": 2009, "note": "Magik, restored, rejoins the team."}
+    ]
+  },
+  {
+    "source": "kitty-pryde", "target": "nightcrawler", "type": "friendship", "continuity": "earth-616",
+    "era": "claremont", "start_issue": "Uncanny X-Men #130 (1980)", "end_issue": null, "label": "From fear to family",
+    "summary": "Kitty initially recoiled from Kurt's appearance; Claremont used her growing affection for him as the story of the reader learning to see past surfaces. They are close for the rest of the run.",
+    "events": [
+      {"issue": "Uncanny X-Men #130 (1980)", "year": 1980, "note": "Kitty is frightened by Nightcrawler on first meeting."},
+      {"issue": "Uncanny X-Men #143 (1981)", "year": 1981, "note": "Christmas issue: Kitty alone at the mansion, Kurt among those she now counts as family."}
+    ]
+  },
+  {
+    "source": "nightcrawler", "target": "wolverine", "type": "friendship", "continuity": "earth-616",
+    "era": "claremont", "start_issue": "Giant-Size X-Men #1 (1975)", "end_issue": null, "label": "Best friends; the devil and the saint",
+    "summary": "The franchise's most consistently written male friendship. Kurt is the one person Logan does not perform for; Kurt's death in X-Force vol. 3 #26 (2010) broke Logan, and his return on Krakoa restored the pairing.",
+    "events": [
+      {"issue": "Uncanny X-Men #110 (1978)", "year": 1978, "note": "Early baseball-game issue establishing the team's off-duty bonds."},
+      {"issue": "X-Force vol. 3 #26 (2010)", "year": 2010, "note": "Nightcrawler dies saving Hope Summers; Logan carries the grief for years."},
+      {"issue": "Amazing X-Men vol. 2 #5 (2014)", "year": 2014, "note": "Kurt returns from the afterlife."}
+    ]
+  },
+  {
+    "source": "mystique", "target": "nightcrawler", "type": "family", "continuity": "earth-616",
+    "era": "nineties", "start_issue": "X-Men Unlimited #4 (1994)", "end_issue": null, "label": "Mother who abandoned him",
+    "summary": "Hinted at since Uncanny X-Men #142 (1981) and confirmed in 1994: Mystique bore Kurt and, fleeing a mob, let him fall into a river. The relationship is about whether he can forgive her and whether she wants him to. Krakoa, where she sat on the Quiet Council while he served as its moral voice, kept the question open.",
+    "events": [
+      {"issue": "Uncanny X-Men #142 (1981)", "year": 1981, "note": "Mystique hints she knows Nightcrawler's parentage."},
+      {"issue": "X-Men Unlimited #4 (1994)", "year": 1994, "note": "Mystique confirms she is Kurt's mother."},
+      {"issue": "Uncanny X-Men #428–434 (2003–04)", "year": 2004, "note": "'The Draco' names Azazel as his father."}
+    ]
+  },
+  {
+    "source": "mystique", "target": "rogue", "type": "family", "continuity": "earth-616",
+    "era": "claremont", "start_issue": "Avengers Annual #10 (1981)", "end_issue": null, "label": "Foster mother and daughter",
+    "summary": "Mystique and Destiny raised Rogue after her powers manifested, then used her as a Brotherhood weapon. Rogue's defection to the X-Men was a betrayal from Mystique's side and an escape from Rogue's; the two have spent decades alternating between manipulation and genuine care.",
+    "events": [
+      {"issue": "Avengers Annual #10 (1981)", "year": 1981, "note": "Rogue debuts as Mystique's protégé, absorbing Ms. Marvel's powers permanently."},
+      {"issue": "Uncanny X-Men #171 (1983)", "year": 1983, "note": "Rogue asks Xavier for help and joins the X-Men."},
+      {"issue": "X-Men Legacy #224 (2009)", "year": 2009, "note": "Rogue gains control of her power; Mystique's manipulations in the surrounding arc resurface."}
+    ]
+  },
+  {
+    "source": "rogue", "target": "gambit", "type": "romance", "continuity": "earth-616",
+    "era": "nineties", "start_issue": "X-Men #4 (1992)", "end_issue": null, "label": "The 90s' great slow burn",
+    "summary": "A romance built on Rogue being unable to touch anyone and Gambit being unable to be honest with anyone. Spanned betrayals (his Marauders past, the Antarctica abandonment in Uncanny X-Men #350), separations, and the 2018 wedding; still married on Krakoa and after.",
+    "events": [
+      {"issue": "X-Men #4 (1992)", "year": 1992, "note": "Their flirtation begins in earnest."},
+      {"issue": "Uncanny X-Men #350 (1997)", "year": 1997, "note": "Rogue abandons Gambit in Antarctica after his Mutant Massacre role is revealed."},
+      {"issue": "X-Men Gold #30 (2018)", "year": 2018, "note": "Rogue and Gambit marry."}
+    ]
+  },
+  {
+    "source": "magneto", "target": "rogue", "type": "romance", "continuity": "earth-616",
+    "era": "claremont", "start_issue": "Uncanny X-Men #274 (1991)", "end_issue": "Uncanny X-Men #275 (1991)", "label": "Savage Land interlude",
+    "summary": "A brief, deliberate romance in the Savage Land that Claremont wrote as two outsiders recognising each other. It mattered mostly for what it set up: Rogue's enduring sympathy for Magneto and the alternate-universe marriage in the Age of Apocalypse.",
+    "events": [
+      {"issue": "Uncanny X-Men #274 (1991)", "year": 1991, "note": "Rogue and Magneto, depowered and stranded, become close."},
+      {"issue": "Uncanny X-Men #275 (1991)", "year": 1991, "note": "Magneto executes Zaladane; Rogue cannot follow him."}
+    ]
+  },
+  {
+    "source": "magneto", "target": "rogue", "type": "romance", "continuity": "earth-295",
+    "era": "nineties", "start_issue": "Age of Apocalypse (1995)", "end_issue": "Age of Apocalypse (1995)", "label": "Married, with a son",
+    "summary": "In the Age of Apocalypse, where Xavier died before founding the X-Men, Magneto leads the team and is married to Rogue; their son is Charles. The pairing is the clearest example of the database's premise: the same two characters, a different continuity, a different relationship.",
+    "events": [
+      {"issue": "Astonishing X-Men #1 (1995)", "year": 1995, "note": "Magneto and Rogue shown as husband and wife."}
+    ]
+  },
+  {
+    "source": "charles-xavier", "target": "cyclops", "type": "mentorship", "continuity": "earth-616",
+    "era": "silver-age", "start_issue": "X-Men #1 (1963)", "end_issue": "Avengers vs. X-Men #11 (2012)", "label": "Favourite son to patricide",
+    "summary": "Xavier's first and most loyal student. The relationship curdled as Scott learned how much Xavier had hidden (Deadly Genesis, 2006), and ended when a Phoenix-possessed Scott killed Xavier. Krakoa, with Xavier resurrected, treated it as a wound neither wanted to discuss.",
+    "events": [
+      {"issue": "X-Men #1 (1963)", "year": 1963, "note": "Scott is Xavier's field leader from the first mission."},
+      {"issue": "X-Men: Deadly Genesis #6 (2006)", "year": 2006, "note": "Scott learns Xavier erased his memory of a lost team and expels him from the mansion."},
+      {"issue": "Avengers vs. X-Men #11 (2012)", "year": 2012, "note": "Dark Phoenix Cyclops kills Xavier."}
+    ]
+  },
+  {
+    "source": "charles-xavier", "target": "jean-grey", "type": "mentorship", "continuity": "earth-616",
+    "era": "silver-age", "start_issue": "X-Men #1 (1963)", "end_issue": null, "label": "Mentor, with a buried complication",
+    "summary": "Xavier trained Jean's telepathy from childhood. X-Men #3 (1964) briefly gave him secret romantic feelings for her, a thread later writers abandoned and then treated as evidence of his ethical blind spots.",
+    "events": [
+      {"issue": "X-Men #3 (1964)", "year": 1964, "note": "A thought balloon reveals Xavier's attraction to Jean; it is never pursued."},
+      {"issue": "X-Men: Phoenix – Endsong (2005)", "year": 2005, "note": "Jean's Phoenix return; Xavier's role in suppressing her power earlier is part of the backstory."}
+    ]
+  },
+  {
+    "source": "wolverine", "target": "kitty-pryde", "type": "mentorship", "continuity": "earth-616",
+    "era": "claremont", "start_issue": "Kitty Pryde and Wolverine #1 (1984)", "end_issue": null, "label": "Teacher, then colleague",
+    "summary": "Logan trained Kitty in Japan after her kidnapping by Ogun; she is the first of his series of young protégées (later Jubilee, Armor, Laura). As an adult she ran his school after his death.",
+    "events": [
+      {"issue": "Kitty Pryde and Wolverine #1–6 (1984–85)", "year": 1985, "note": "Logan rescues and retrains Kitty in Japan; she takes the name Shadowcat."},
+      {"issue": "Wolverine and the X-Men #1 (2011)", "year": 2011, "note": "Kitty is co-headmistress of the Jean Grey School."}
+    ]
+  },
+  {
+    "source": "emma-frost", "target": "kitty-pryde", "type": "rivalry", "continuity": "earth-616",
+    "era": "morrison-whedon", "start_issue": "Astonishing X-Men #1 (2004)", "end_issue": null, "label": "Mutual contempt, grudging respect",
+    "summary": "Kitty never forgave Emma's Hellfire Club past; Whedon's Astonishing X-Men built the team's internal tension on Kitty's suspicion that Emma had not changed. Emma's later rescue of Kitty from the bullet (Uncanny X-Men #522, 2010) did not fully close the account.",
+    "events": [
+      {"issue": "Astonishing X-Men #1 (2004)", "year": 2004, "note": "Kitty is recruited specifically to keep an eye on Emma."},
+      {"issue": "Astonishing X-Men #16–18 (2006–07)", "year": 2007, "note": "Emma, under the Hellfire Club's influence, turns on Kitty."}
+    ]
+  },
+  {
+    "source": "mystique", "target": "destiny", "type": "romance", "continuity": "earth-616",
+    "era": "claremont", "start_issue": "Uncanny X-Men #141 (1981)", "end_issue": null, "label": "Lifelong partners",
+    "summary": "Claremont wrote them as a couple from Destiny's first appearance, in code, because editorial would not allow it to be stated. Destiny's death in Uncanny X-Men #255 (1990) drove Mystique's choices for decades; her Krakoan resurrection, which Mystique forced, is the spine of Inferno (2021) and Immortal X-Men.",
+    "events": [
+      {"issue": "Uncanny X-Men #141 (1981)", "year": 1981, "note": "Destiny debuts with the Brotherhood alongside Mystique."},
+      {"issue": "Uncanny X-Men #255 (1990)", "year": 1990, "note": "Destiny is killed by Legion."},
+      {"issue": "Inferno #4 (2021)", "year": 2021, "note": "Destiny is resurrected; the two are stated on the page as married."}
+    ]
+  },
+  {
+    "source": "beast", "target": "iceman", "type": "friendship", "continuity": "earth-616",
+    "era": "silver-age", "start_issue": "X-Men #1 (1963)", "end_issue": null, "label": "Oldest friends in the franchise",
+    "summary": "The two original X-Men who most often left and returned together (the Champions, the Defenders, X-Factor). Bobby came out to Hank in All-New X-Men #40 (2015) among the first to know; the Krakoan era's divergence, with Hank running X-Force's dirty work, strained but did not break it.",
+    "events": [
+      {"issue": "X-Men #1 (1963)", "year": 1963, "note": "Both among the original five."},
+      {"issue": "Champions #1 (1975)", "year": 1975, "note": "Both leave the X-Men to form the Champions."},
+      {"issue": "All-New X-Men #40 (2015)", "year": 2015, "note": "Young Bobby comes out; adult Bobby follows in Uncanny X-Men #600."}
+    ]
+  },
+  {
+    "source": "cyclops", "target": "havok", "type": "family", "continuity": "earth-616",
+    "era": "silver-age", "start_issue": "X-Men #54 (1969)", "end_issue": null, "label": "Brothers, perpetually compared",
+    "summary": "Separated as children after a plane crash, reunited as adults. Alex has spent most of his career defining himself against Scott—leading X-Factor and the Avengers Unity Squad as the brother who is not Cyclops—and the two have fought on opposite sides more than once.",
+    "events": [
+      {"issue": "X-Men #54 (1969)", "year": 1969, "note": "Alex is introduced and revealed as Scott's brother."},
+      {"issue": "Uncanny Avengers #1 (2012)", "year": 2012, "note": "Alex leads the Unity Squad while Scott is imprisoned."}
+    ]
+  },
+  {
+    "source": "storm", "target": "jean-grey", "type": "friendship", "continuity": "earth-616",
+    "era": "claremont", "start_issue": "Giant-Size X-Men #1 (1975)", "end_issue": null, "label": "The team's two matriarchs",
+    "summary": "Close from the start of the new team; Storm was Jean's closest female friend through the Phoenix years and held the team together in her absences.",
+    "events": [
+      {"issue": "Uncanny X-Men #101 (1976)", "year": 1976, "note": "Jean becomes Phoenix; Storm is at her side."},
+      {"issue": "X-Men: Red #1 (2018)", "year": 2018, "note": "Returned Jean recruits Storm first for her new team."}
+    ]
+  },
+  {
+    "source": "cyclops", "target": "jean-grey", "type": "romance", "continuity": "earth-1610",
+    "era": "morrison-whedon", "start_issue": "Ultimate X-Men #1 (2001)", "end_issue": "Ultimatum #5 (2009)", "label": "Teenage version",
+    "summary": "In the Ultimate universe they are teenagers, the romance is more volatile, and Jean briefly chooses Wolverine. Included as a continuity contrast to the 616 marriage.",
+    "events": [
+      {"issue": "Ultimate X-Men #1 (2001)", "year": 2001, "note": "Scott and Jean established as a couple at Xavier's."},
+      {"issue": "Ultimate X-Men #26 (2003)", "year": 2003, "note": "Jean leaves Scott for Logan, briefly."}
+    ]
+  }
+]

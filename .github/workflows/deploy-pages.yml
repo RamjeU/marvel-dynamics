@@ -1,0 +1,57 @@
+# Free hosting: builds the static site and publishes it to GitHub Pages on every push to main.
+# No backend process runs in production — the frontend reads JSON exported from the database.
+# One-time setup: repo Settings → Pages → Source: "GitHub Actions".
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Seed database, run tests, export static data
+        working-directory: backend
+        run: |
+          pip install -r requirements.txt
+          python seed.py
+          python -m pytest -q
+          python export_static.py
+
+      - uses: actions/setup-node@v4
+        with: { node-version: "22", cache: npm, cache-dependency-path: frontend/package-lock.json }
+      - name: Build frontend
+        working-directory: frontend
+        env:
+          BASE_PATH: /${{ github.event.repository.name }}/
+        run: |
+          npm ci
+          npm run build
+
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: frontend/dist }
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

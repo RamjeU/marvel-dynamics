@@ -1,0 +1,10 @@
+[
+  {"id": "silver-age", "name": "Silver Age (Lee/Kirby/Thomas)", "start_year": 1963, "end_year": 1970, "description": "X-Men #1 (1963) through the original run's cancellation at #66. The first five students and the founding Xavier/Magneto conflict."},
+  {"id": "claremont", "name": "Claremont Era", "start_year": 1975, "end_year": 1991, "description": "Giant-Size X-Men #1 (1975) through Chris Claremont's departure after X-Men #3 (1991). The all-new team, Phoenix, Days of Future Past, the Brood, Inferno."},
+  {"id": "nineties", "name": "90s / Blue-Gold", "start_year": 1991, "end_year": 2001, "description": "Jim Lee's X-Men relaunch through the Onslaught and Apocalypse: The Twelve era. Rogue and Gambit, the Blue and Gold teams, Age of Apocalypse."},
+  {"id": "morrison-whedon", "name": "Morrison / Whedon Era", "start_year": 2001, "end_year": 2008, "description": "New X-Men (2001–2004) and Astonishing X-Men (2004–2008). Emma Frost joins, Jean dies, the school becomes a school."},
+  {"id": "utopia-schism", "name": "Utopia / Schism", "start_year": 2008, "end_year": 2012, "description": "The X-Men move to San Francisco and then the island Utopia; Cyclops and Wolverine split the team; Avengers vs. X-Men."},
+  {"id": "bendis-gold", "name": "Bendis to Gold/Blue", "start_year": 2012, "end_year": 2019, "description": "All-New X-Men and the time-displaced originals, Death of X, the Gold/Blue era and the Rogue–Gambit wedding."},
+  {"id": "krakoa", "name": "Krakoan Age", "start_year": 2019, "end_year": 2024, "description": "House of X / Powers of X (2019) through Fall of the House of X (2024). Mutant nation-state on the living island Krakoa; resurrection; the Quiet Council."},
+  {"id": "from-the-ashes", "name": "From the Ashes", "start_year": 2024, "end_year": null, "description": "Post-Krakoa relaunch (July 2024 onward). Teams scattered across Alaska, New York and elsewhere."}
+]
