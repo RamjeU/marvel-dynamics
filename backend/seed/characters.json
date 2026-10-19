@@ -16,7 +16,11 @@
     ],
     "color": "#5B7CFA",
     "emblem": "X",
-    "bio": "Telepath, founder of the X-Men and of the school that bears his name. His dream of human–mutant coexistence is the moral axis of the franchise, and nearly every relationship he has is shaped by how far he is willing to bend ethics in service of it. The Krakoan era made him a head of state and finally put him and Magneto on the same side."
+    "bio": "Telepath, founder of the X-Men and of the school that bears his name. His dream of human–mutant coexistence is the moral axis of the franchise, and nearly every relationship he has is shaped by how far he is willing to bend ethics in service of it. The Krakoan era made him a head of state and finally put him and Magneto on the same side.",
+    "affiliations": [
+      "X-Men",
+      "Quiet Council"
+    ]
   },
   {
     "id": "magneto",
@@ -35,7 +39,12 @@
     ],
     "color": "#C0392B",
     "emblem": "M",
-    "bio": "Holocaust survivor and mutant separatist whose conviction that humanity will never accept mutants makes him the X-Men's most durable antagonist and, repeatedly, their ally. His history with Xavier is the franchise's defining friendship-turned-rivalry."
+    "bio": "Holocaust survivor and mutant separatist whose conviction that humanity will never accept mutants makes him the X-Men's most durable antagonist and, repeatedly, their ally. His history with Xavier is the franchise's defining friendship-turned-rivalry.",
+    "affiliations": [
+      "Brotherhood of Mutants",
+      "X-Men",
+      "Quiet Council"
+    ]
   },
   {
     "id": "cyclops",
@@ -53,7 +62,11 @@
     ],
     "color": "#E74C3C",
     "emblem": "C",
-    "bio": "Xavier's first student and the X-Men's longest-serving field leader. Emotionally guarded, defined by duty, and the centre of the franchise's most famous love triangle. His arc from loyal son to revolutionary (Schism, Avengers vs. X-Men) is one of the longest character arcs in comics."
+    "bio": "Xavier's first student and the X-Men's longest-serving field leader. Emotionally guarded, defined by duty, and the centre of the franchise's most famous love triangle. His arc from loyal son to revolutionary (Schism, Avengers vs. X-Men) is one of the longest character arcs in comics.",
+    "affiliations": [
+      "X-Men",
+      "X-Factor"
+    ]
   },
   {
     "id": "jean-grey",
@@ -72,7 +85,12 @@
     ],
     "color": "#F39C12",
     "emblem": "Φ",
-    "bio": "Telepath and telekinetic; host of the Phoenix Force. Has died and returned more than any other X-Man, which has made her relationships (especially with Scott and Logan) a recurring site of grief and resurrection."
+    "bio": "Telepath and telekinetic; host of the Phoenix Force. Has died and returned more than any other X-Man, which has made her relationships (especially with Scott and Logan) a recurring site of grief and resurrection.",
+    "affiliations": [
+      "X-Men",
+      "X-Factor",
+      "Phoenix Force"
+    ]
   },
   {
     "id": "wolverine",
@@ -92,7 +110,13 @@
     ],
     "color": "#F1C40F",
     "emblem": "W",
-    "bio": "Feral, long-lived mutant with a healing factor and adamantium skeleton. Joined the X-Men as an outsider and became its heart. His friendships (Nightcrawler, Kitty, Storm) are among the warmest in the line; his rivalry with Cyclops is among the most bitter."
+    "bio": "Feral, long-lived mutant with a healing factor and adamantium skeleton. Joined the X-Men as an outsider and became its heart. His friendships (Nightcrawler, Kitty, Storm) are among the warmest in the line; his rivalry with Cyclops is among the most bitter.",
+    "affiliations": [
+      "X-Men",
+      "Avengers",
+      "X-Force",
+      "Alpha Flight"
+    ]
   },
   {
     "id": "storm",
@@ -111,7 +135,12 @@
     ],
     "color": "#ECF0F1",
     "emblem": "S",
-    "bio": "Weather-controlling mutant, former street thief in Cairo, worshipped as a goddess in Kenya, queen of Wakanda by marriage, and the X-Men's most frequent leader after Cyclops. A stabilising presence whose friendships are usually mentorships."
+    "bio": "Weather-controlling mutant, former street thief in Cairo, worshipped as a goddess in Kenya, queen of Wakanda by marriage, and the X-Men's most frequent leader after Cyclops. A stabilising presence whose friendships are usually mentorships.",
+    "affiliations": [
+      "X-Men",
+      "Avengers",
+      "Arakko"
+    ]
   },
   {
     "id": "nightcrawler",
@@ -129,7 +158,11 @@
     ],
     "color": "#2C3E90",
     "emblem": "N",
-    "bio": "Teleporting, devoutly Catholic circus acrobat whose demonic appearance belies the team's gentlest temperament. The son of Mystique; best friend of Wolverine; the character most often used to argue that the X-Men's faith in people is justified."
+    "bio": "Teleporting, devoutly Catholic circus acrobat whose demonic appearance belies the team's gentlest temperament. The son of Mystique; best friend of Wolverine; the character most often used to argue that the X-Men's faith in people is justified.",
+    "affiliations": [
+      "X-Men",
+      "Excalibur"
+    ]
   },
   {
     "id": "kitty-pryde",
@@ -150,7 +183,13 @@
     ],
     "color": "#9B59B6",
     "emblem": "K",
-    "bio": "Phasing mutant introduced at thirteen as the reader's point of view; grew up on the page into a team leader, headmistress and, on Krakoa, a pirate captain. Her relationships are a map of the X-Men's generational structure: mentored by Storm and Wolverine, in love with Colossus, in conflict with Emma Frost."
+    "bio": "Phasing mutant introduced at thirteen as the reader's point of view; grew up on the page into a team leader, headmistress and, on Krakoa, a pirate captain. Her relationships are a map of the X-Men's generational structure: mentored by Storm and Wolverine, in love with Colossus, in conflict with Emma Frost.",
+    "affiliations": [
+      "X-Men",
+      "Excalibur",
+      "Guardians of the Galaxy",
+      "Marauders"
+    ]
   },
   {
     "id": "colossus",
@@ -168,7 +207,11 @@
     ],
     "color": "#95A5A6",
     "emblem": "Р",
-    "bio": "Siberian farm boy who turns to organic steel; painter; the team's conscience and its strongest body. Defined by his family (sister Illyana, brother Mikhail) and by a decades-long on-again, off-again romance with Kitty Pryde."
+    "bio": "Siberian farm boy who turns to organic steel; painter; the team's conscience and its strongest body. Defined by his family (sister Illyana, brother Mikhail) and by a decades-long on-again, off-again romance with Kitty Pryde.",
+    "affiliations": [
+      "X-Men",
+      "Excalibur"
+    ]
   },
   {
     "id": "magik",
@@ -189,7 +232,11 @@
     ],
     "color": "#8E44AD",
     "emblem": "I",
-    "bio": "Colossus's younger sister, abducted to Limbo as a child and returned a teenage sorceress with a Soulsword and a demonic half. Her relationships are shaped by the gap between the child her brother remembers and the ruler of hell she became."
+    "bio": "Colossus's younger sister, abducted to Limbo as a child and returned a teenage sorceress with a Soulsword and a demonic half. Her relationships are shaped by the gap between the child her brother remembers and the ruler of hell she became.",
+    "affiliations": [
+      "New Mutants",
+      "X-Men"
+    ]
   },
   {
     "id": "emma-frost",
@@ -207,7 +254,12 @@
     ],
     "color": "#FDFEFE",
     "emblem": "E",
-    "bio": "Telepath with a diamond form; former Hellfire Club White Queen turned headmistress and, eventually, one of the X-Men's most important leaders. Her move from villain to protagonist (Generation X, New X-Men) is a textbook example of a heel-face turn that stuck."
+    "bio": "Telepath with a diamond form; former Hellfire Club White Queen turned headmistress and, eventually, one of the X-Men's most important leaders. Her move from villain to protagonist (Generation X, New X-Men) is a textbook example of a heel-face turn that stuck.",
+    "affiliations": [
+      "Hellfire Club",
+      "X-Men",
+      "Quiet Council"
+    ]
   },
   {
     "id": "rogue",
@@ -225,7 +277,12 @@
     ],
     "color": "#27AE60",
     "emblem": "R",
-    "bio": "Power-absorbing mutant raised by Mystique as a Brotherhood operative; defected to the X-Men in Uncanny X-Men #171 (1983). For decades her power made touch itself dangerous, which turned every romance she had into a problem of intimacy."
+    "bio": "Power-absorbing mutant raised by Mystique as a Brotherhood operative; defected to the X-Men in Uncanny X-Men #171 (1983). For decades her power made touch itself dangerous, which turned every romance she had into a problem of intimacy.",
+    "affiliations": [
+      "Brotherhood of Mutants",
+      "X-Men",
+      "Avengers"
+    ]
   },
   {
     "id": "gambit",
@@ -244,7 +301,11 @@
     ],
     "color": "#D35400",
     "emblem": "G",
-    "bio": "Cajun thief who charges objects with kinetic energy. Charming, untrustworthy, and the X-Men's resident rogue; his relationship with Rogue is the longest-running romance of the 90s X-Men."
+    "bio": "Cajun thief who charges objects with kinetic energy. Charming, untrustworthy, and the X-Men's resident rogue; his relationship with Rogue is the longest-running romance of the 90s X-Men.",
+    "affiliations": [
+      "X-Men",
+      "Thieves Guild"
+    ]
   },
   {
     "id": "mystique",
@@ -261,7 +322,11 @@
     ],
     "color": "#1A5276",
     "emblem": "Y",
-    "bio": "Shapeshifter and leader of the Brotherhood; mother of Nightcrawler, foster mother of Rogue, lifelong partner of Destiny. Her relationships are the franchise's clearest study in how a villain can love people and still fail them."
+    "bio": "Shapeshifter and leader of the Brotherhood; mother of Nightcrawler, foster mother of Rogue, lifelong partner of Destiny. Her relationships are the franchise's clearest study in how a villain can love people and still fail them.",
+    "affiliations": [
+      "Brotherhood of Mutants",
+      "Quiet Council"
+    ]
   },
   {
     "id": "destiny",
@@ -278,7 +343,11 @@
     ],
     "color": "#5D6D7E",
     "emblem": "D",
-    "bio": "Blind precognitive mutant and Mystique's partner of decades. Claremont intended the two as a couple from the start; the relationship was stated plainly on the page only much later, and became a central thread of the Krakoan era."
+    "bio": "Blind precognitive mutant and Mystique's partner of decades. Claremont intended the two as a couple from the start; the relationship was stated plainly on the page only much later, and became a central thread of the Krakoan era.",
+    "affiliations": [
+      "Brotherhood of Mutants",
+      "Quiet Council"
+    ]
   },
   {
     "id": "beast",
@@ -295,7 +364,13 @@
     ],
     "color": "#1F618D",
     "emblem": "B",
-    "bio": "Original X-Man, geneticist and the team's scientist. Oscillates between being the most humane member of the team and, in the Krakoan era, its most morally compromised."
+    "bio": "Original X-Man, geneticist and the team's scientist. Oscillates between being the most humane member of the team and, in the Krakoan era, its most morally compromised.",
+    "affiliations": [
+      "X-Men",
+      "Avengers",
+      "Defenders",
+      "X-Factor"
+    ]
   },
   {
     "id": "iceman",
@@ -312,7 +387,12 @@
     ],
     "color": "#5DADE2",
     "emblem": "❄",
-    "bio": "The youngest of the original five, a joker whose powers turned out to be far greater than anyone assumed. Came out as gay in All-New X-Men #40 (2015), a development that reframed decades of his friendships."
+    "bio": "The youngest of the original five, a joker whose powers turned out to be far greater than anyone assumed. Came out as gay in All-New X-Men #40 (2015), a development that reframed decades of his friendships.",
+    "affiliations": [
+      "X-Men",
+      "Champions",
+      "X-Factor"
+    ]
   },
   {
     "id": "havok",
@@ -329,7 +409,12 @@
     ],
     "color": "#2E86C1",
     "emblem": "H",
-    "bio": "Cyclops's younger brother, plasma-projecting and perpetually in Scott's shadow. Their relationship is the franchise's main study of sibling rivalry."
+    "bio": "Cyclops's younger brother, plasma-projecting and perpetually in Scott's shadow. Their relationship is the franchise's main study of sibling rivalry.",
+    "affiliations": [
+      "X-Men",
+      "X-Factor",
+      "Avengers"
+    ]
   },
   {
     "id": "spider-man",
@@ -349,7 +434,12 @@
     ],
     "color": "#D62828",
     "emblem": "🕷",
-    "bio": "Teenage science prodigy bitten by a radioactive spider; the first superhero written as a person with rent, a sick aunt and a bad week. His relationships are the engine of the book: every villain is someone he knows, and every love interest is someone his secret endangers."
+    "bio": "Teenage science prodigy bitten by a radioactive spider; the first superhero written as a person with rent, a sick aunt and a bad week. His relationships are the engine of the book: every villain is someone he knows, and every love interest is someone his secret endangers.",
+    "affiliations": [
+      "Avengers",
+      "Fantastic Four",
+      "Future Foundation"
+    ]
   },
   {
     "id": "mary-jane",
@@ -367,7 +457,8 @@
     ],
     "color": "#E85D04",
     "emblem": "MJ",
-    "bio": "Actress and model introduced as a party girl and revealed, over decades, to be the most emotionally intelligent person in Peter's life; she knew he was Spider-Man long before he told her. Wife from 1987 until One More Day (2007), which erased the marriage from continuity."
+    "bio": "Actress and model introduced as a party girl and revealed, over decades, to be the most emotionally intelligent person in Peter's life; she knew he was Spider-Man long before he told her. Wife from 1987 until One More Day (2007), which erased the marriage from continuity.",
+    "affiliations": []
   },
   {
     "id": "gwen-stacy",
@@ -384,7 +475,8 @@
     ],
     "color": "#F4D35E",
     "emblem": "GS",
-    "bio": "Peter's college girlfriend and first great love, killed by the Green Goblin in Amazing Spider-Man #121 (1973) — the death usually cited as the end of the Silver Age. Her absence shapes every later Spider-Man romance."
+    "bio": "Peter's college girlfriend and first great love, killed by the Green Goblin in Amazing Spider-Man #121 (1973) — the death usually cited as the end of the Silver Age. Her absence shapes every later Spider-Man romance.",
+    "affiliations": []
   },
   {
     "id": "harry-osborn",
@@ -401,7 +493,8 @@
     ],
     "color": "#6A994E",
     "emblem": "HO",
-    "bio": "Peter's best friend, roommate and, after discovering Peter's identity and his father's death, his second Green Goblin. The friendship is the series' longest study of whether loyalty survives what people become."
+    "bio": "Peter's best friend, roommate and, after discovering Peter's identity and his father's death, his second Green Goblin. The friendship is the series' longest study of whether loyalty survives what people become.",
+    "affiliations": []
   },
   {
     "id": "norman-osborn",
@@ -419,7 +512,11 @@
     ],
     "color": "#386641",
     "emblem": "G",
-    "bio": "Industrialist, Harry's father and Peter's archenemy; the first villain to learn Spider-Man's identity and the one who killed Gwen Stacy. His relationship with Peter is personal in a way no other hero–villain pairing at Marvel is."
+    "bio": "Industrialist, Harry's father and Peter's archenemy; the first villain to learn Spider-Man's identity and the one who killed Gwen Stacy. His relationship with Peter is personal in a way no other hero–villain pairing at Marvel is.",
+    "affiliations": [
+      "Dark Avengers",
+      "Thunderbolts"
+    ]
   },
   {
     "id": "aunt-may",
@@ -436,7 +533,8 @@
     ],
     "color": "#B7B7A4",
     "emblem": "AM",
-    "bio": "Peter's guardian after Uncle Ben's death and the reason the secret identity matters: for forty years the book's premise was that the truth would kill her. Learned the truth in Amazing Spider-Man vol. 2 #38 (2002) and handled it better than anyone expected."
+    "bio": "Peter's guardian after Uncle Ben's death and the reason the secret identity matters: for forty years the book's premise was that the truth would kill her. Learned the truth in Amazing Spider-Man vol. 2 #38 (2002) and handled it better than anyone expected.",
+    "affiliations": []
   },
   {
     "id": "black-cat",
@@ -453,7 +551,10 @@
     ],
     "color": "#6C757D",
     "emblem": "BC",
-    "bio": "Cat burglar who fell for Spider-Man and was openly uninterested in Peter Parker — the inverse of every other relationship he has. On-again, off-again partner, occasional antagonist, and the most consistently written adult romance in the line."
+    "bio": "Cat burglar who fell for Spider-Man and was openly uninterested in Peter Parker — the inverse of every other relationship he has. On-again, off-again partner, occasional antagonist, and the most consistently written adult romance in the line.",
+    "affiliations": [
+      "Heroes for Hire"
+    ]
   },
   {
     "id": "venom",
@@ -471,7 +572,11 @@
     ],
     "color": "#212529",
     "emblem": "V",
-    "bio": "Disgraced journalist bonded with the alien symbiote Peter rejected; both of them blame Spider-Man for ruining their lives. Began as a horror villain, became an anti-hero, and has spent the 2010s and 2020s as a protagonist in his own right."
+    "bio": "Disgraced journalist bonded with the alien symbiote Peter rejected; both of them blame Spider-Man for ruining their lives. Began as a horror villain, became an anti-hero, and has spent the 2010s and 2020s as a protagonist in his own right.",
+    "affiliations": [
+      "Thunderbolts",
+      "Guardians of the Galaxy"
+    ]
   },
   {
     "id": "doctor-octopus",
@@ -490,7 +595,10 @@
     ],
     "color": "#5A189A",
     "emblem": "8",
-    "bio": "Scientist with four mechanical arms; the first villain to beat Spider-Man outright. Swapped minds with Peter in Amazing Spider-Man #698–700 (2012) and spent thirty issues as the Superior Spider-Man, which turned a rivalry into something closer to a shared identity."
+    "bio": "Scientist with four mechanical arms; the first villain to beat Spider-Man outright. Swapped minds with Peter in Amazing Spider-Man #698–700 (2012) and spent thirty issues as the Superior Spider-Man, which turned a rivalry into something closer to a shared identity.",
+    "affiliations": [
+      "Sinister Six"
+    ]
   },
   {
     "id": "miles-morales",
@@ -508,6 +616,854 @@
     ],
     "color": "#000000",
     "emblem": "MM",
-    "bio": "Brooklyn teenager who became Spider-Man after Peter Parker's death in the Ultimate universe, then migrated to Earth-616 in Secret Wars (2015), where two Spider-Men now coexist. His relationship with Peter is a mentorship neither of them planned."
+    "bio": "Brooklyn teenager who became Spider-Man after Peter Parker's death in the Ultimate universe, then migrated to Earth-616 in Secret Wars (2015), where two Spider-Men now coexist. His relationship with Peter is a mentorship neither of them planned.",
+    "affiliations": [
+      "Champions",
+      "Avengers"
+    ]
+  },
+  {
+    "id": "captain-america",
+    "name": "Captain America",
+    "real_name": "Steven Grant Rogers",
+    "aliases": [
+      "Captain America",
+      "Steve",
+      "Cap",
+      "Nomad",
+      "The Captain"
+    ],
+    "first_appearance": "Captain America Comics #1 (Mar. 1941); revived Avengers #4 (Mar. 1964)",
+    "creators": [
+      "Joe Simon",
+      "Jack Kirby"
+    ],
+    "color": "#1F4E9C",
+    "emblem": "A",
+    "bio": "Super-soldier frozen in 1945 and thawed by the Avengers. The moral centre of the Marvel universe; his relationships are mostly about other people measuring themselves against him, and Civil War (2006) was the first time the universe measured back.",
+    "affiliations": [
+      "Avengers",
+      "Invaders",
+      "S.H.I.E.L.D."
+    ]
+  },
+  {
+    "id": "iron-man",
+    "name": "Iron Man",
+    "real_name": "Anthony Edward Stark",
+    "aliases": [
+      "Iron Man",
+      "Tony",
+      "Stark",
+      "Shellhead"
+    ],
+    "first_appearance": "Tales of Suspense #39 (Mar. 1963)",
+    "creators": [
+      "Stan Lee",
+      "Larry Lieber",
+      "Don Heck",
+      "Jack Kirby"
+    ],
+    "color": "#C8102E",
+    "emblem": "IM",
+    "bio": "Arms dealer turned armoured futurist; alcoholic, narcissist, and the Avenger most willing to make the decision nobody else will. His friendships (Rhodey, Pepper, Steve) are all tests of how much he can be forgiven.",
+    "affiliations": [
+      "Avengers",
+      "Illuminati",
+      "S.H.I.E.L.D."
+    ]
+  },
+  {
+    "id": "thor",
+    "name": "Thor",
+    "real_name": "Thor Odinson",
+    "aliases": [
+      "Thor",
+      "Odinson",
+      "Donald Blake"
+    ],
+    "first_appearance": "Journey into Mystery #83 (Aug. 1962)",
+    "creators": [
+      "Stan Lee",
+      "Larry Lieber",
+      "Jack Kirby"
+    ],
+    "color": "#5D8AA8",
+    "emblem": "⚡",
+    "bio": "Asgardian god of thunder exiled to Earth to learn humility. His relationships run on a different clock from everyone else's — Loki is millennia old, Jane Foster is a mortal lifetime — which is the engine of the book.",
+    "affiliations": [
+      "Avengers",
+      "Asgard"
+    ]
+  },
+  {
+    "id": "hulk",
+    "name": "Hulk",
+    "real_name": "Robert Bruce Banner",
+    "aliases": [
+      "Hulk",
+      "Bruce",
+      "Banner",
+      "Joe Fixit",
+      "Professor"
+    ],
+    "first_appearance": "Incredible Hulk #1 (May 1962)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#2E8B57",
+    "emblem": "H",
+    "bio": "Physicist who becomes a green monster under stress; the Marvel character most often written as the universe's problem rather than its hero. Nearly every relationship he has is with someone who has tried to contain, cure or kill him.",
+    "affiliations": [
+      "Avengers",
+      "Defenders",
+      "Pantheon"
+    ]
+  },
+  {
+    "id": "black-widow",
+    "name": "Black Widow",
+    "real_name": "Natalia Alianovna Romanova",
+    "aliases": [
+      "Black Widow",
+      "Natasha",
+      "Nat",
+      "Natalia"
+    ],
+    "first_appearance": "Tales of Suspense #52 (Apr. 1964)",
+    "creators": [
+      "Stan Lee",
+      "Don Rico",
+      "Don Heck"
+    ],
+    "color": "#2B2B2B",
+    "emblem": "BW",
+    "bio": "Soviet spy who defected and became the Avengers' most capable operative. Introduced as an Iron Man villain; her romances with Hawkeye, Daredevil and Bucky are the main throughline of a character who is otherwise written as unknowable.",
+    "affiliations": [
+      "Avengers",
+      "S.H.I.E.L.D.",
+      "Champions"
+    ]
+  },
+  {
+    "id": "hawkeye",
+    "name": "Hawkeye",
+    "real_name": "Clinton Francis Barton",
+    "aliases": [
+      "Hawkeye",
+      "Clint",
+      "Goliath",
+      "Ronin"
+    ],
+    "first_appearance": "Tales of Suspense #57 (Sept. 1964)",
+    "creators": [
+      "Stan Lee",
+      "Don Heck"
+    ],
+    "color": "#7B3F9E",
+    "emblem": "HK",
+    "bio": "Carnival archer who started as a Black Widow-smitten villain and became the Avengers' loudmouth conscience. His marriage to Mockingbird and his sulking rivalry with Captain America are the character's two poles.",
+    "affiliations": [
+      "Avengers",
+      "West Coast Avengers",
+      "Thunderbolts"
+    ]
+  },
+  {
+    "id": "scarlet-witch",
+    "name": "Scarlet Witch",
+    "real_name": "Wanda Maximoff",
+    "aliases": [
+      "Scarlet Witch",
+      "Wanda"
+    ],
+    "first_appearance": "X-Men #4 (Mar. 1964)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#B22222",
+    "emblem": "SW",
+    "bio": "Chaos-magic wielder introduced in Magneto's Brotherhood, married to the android Vision, and responsible for the two most consequential breakdowns in Marvel history (Avengers Disassembled, House of M). Her relationships are about who she can be trusted around.",
+    "affiliations": [
+      "Brotherhood of Mutants",
+      "Avengers",
+      "Force Works"
+    ]
+  },
+  {
+    "id": "quicksilver",
+    "name": "Quicksilver",
+    "real_name": "Pietro Maximoff",
+    "aliases": [
+      "Quicksilver",
+      "Pietro"
+    ],
+    "first_appearance": "X-Men #4 (Mar. 1964)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#A7C7E7",
+    "emblem": "QS",
+    "bio": "Speedster and Wanda's twin, arrogant and protective in equal measure; the sibling who never fully left Magneto's shadow even after Marvel retconned the parentage (AXIS, 2014).",
+    "affiliations": [
+      "Brotherhood of Mutants",
+      "Avengers",
+      "X-Factor",
+      "Inhumans"
+    ]
+  },
+  {
+    "id": "vision",
+    "name": "Vision",
+    "real_name": "Vision",
+    "aliases": [
+      "Vision",
+      "Victor Shade"
+    ],
+    "first_appearance": "Avengers #57 (Oct. 1968)",
+    "creators": [
+      "Roy Thomas",
+      "John Buscema"
+    ],
+    "color": "#C41E3A",
+    "emblem": "V",
+    "bio": "Synthezoid built by Ultron to destroy the Avengers who joined them instead. His marriage to Wanda, his dismantling and rebuilding, and his attempt at a synthetic family (Vision, 2015–16) make him the series' study of what counts as a person.",
+    "affiliations": [
+      "Avengers",
+      "West Coast Avengers"
+    ]
+  },
+  {
+    "id": "winter-soldier",
+    "name": "Winter Soldier",
+    "real_name": "James Buchanan Barnes",
+    "aliases": [
+      "Bucky",
+      "Winter Soldier",
+      "Captain America"
+    ],
+    "first_appearance": "Captain America Comics #1 (Mar. 1941); as Winter Soldier, Captain America vol. 5 #1 (Jan. 2005)",
+    "creators": [
+      "Joe Simon",
+      "Jack Kirby",
+      "Ed Brubaker",
+      "Steve Epting"
+    ],
+    "color": "#4A4E69",
+    "emblem": "WS",
+    "bio": "Cap's wartime partner, assumed dead for sixty years of publishing, revealed in 2005 as a brainwashed Soviet assassin. Took up the shield after Steve's death (2007–2009). The relationship with Steve is the franchise's defining story of a friend returned.",
+    "affiliations": [
+      "Invaders",
+      "Avengers",
+      "Thunderbolts"
+    ]
+  },
+  {
+    "id": "hank-pym",
+    "name": "Hank Pym",
+    "real_name": "Henry Jonathan Pym",
+    "aliases": [
+      "Ant-Man",
+      "Giant-Man",
+      "Goliath",
+      "Yellowjacket",
+      "Wasp"
+    ],
+    "first_appearance": "Tales to Astonish #27 (Jan. 1962)",
+    "creators": [
+      "Stan Lee",
+      "Larry Lieber",
+      "Jack Kirby"
+    ],
+    "color": "#8B0000",
+    "emblem": "HP",
+    "bio": "Size-changing scientist, founding Avenger, creator of Ultron, and the man who struck his wife in Avengers #213 (1981) — the single panel that defined him for the next forty years.",
+    "affiliations": [
+      "Avengers",
+      "West Coast Avengers"
+    ]
+  },
+  {
+    "id": "wasp",
+    "name": "Wasp",
+    "real_name": "Janet van Dyne",
+    "aliases": [
+      "Wasp",
+      "Jan"
+    ],
+    "first_appearance": "Tales to Astonish #44 (June 1963)",
+    "creators": [
+      "Stan Lee",
+      "Ernie Hart",
+      "Jack Kirby"
+    ],
+    "color": "#FFB703",
+    "emblem": "W",
+    "bio": "Fashion designer and founding Avenger who named the team and, after her divorce from Hank Pym, became one of its longest-serving leaders. Written early as a flirt, later as the adult in the room.",
+    "affiliations": [
+      "Avengers"
+    ]
+  },
+  {
+    "id": "loki",
+    "name": "Loki",
+    "real_name": "Loki Laufeyson",
+    "aliases": [
+      "Loki",
+      "God of Mischief",
+      "God of Stories",
+      "Kid Loki",
+      "Ikol"
+    ],
+    "first_appearance": "Journey into Mystery #85 (Oct. 1962)",
+    "creators": [
+      "Stan Lee",
+      "Larry Lieber",
+      "Jack Kirby"
+    ],
+    "color": "#2A9D8F",
+    "emblem": "L",
+    "bio": "Thor's adopted brother and the reason the Avengers exist (Avengers #1, 1963). Villain for fifty years, then reborn as a child (2010) and rewritten as a trickster trying to outrun his own story.",
+    "affiliations": [
+      "Asgard",
+      "Young Avengers"
+    ]
+  },
+  {
+    "id": "captain-marvel",
+    "name": "Captain Marvel",
+    "real_name": "Carol Susan Jane Danvers",
+    "aliases": [
+      "Captain Marvel",
+      "Ms. Marvel",
+      "Binary",
+      "Warbird",
+      "Carol"
+    ],
+    "first_appearance": "Marvel Super-Heroes #13 (Mar. 1968); as Ms. Marvel, Ms. Marvel #1 (Jan. 1977)",
+    "creators": [
+      "Roy Thomas",
+      "Gene Colan"
+    ],
+    "color": "#D62839",
+    "emblem": "CM",
+    "bio": "Air Force pilot given Kree powers; Ms. Marvel for thirty-five years before taking the Captain Marvel name in 2012. Her history with Rogue (who stole her powers and memories) and her Civil War II stance against Tony Stark define her relationships.",
+    "affiliations": [
+      "Avengers",
+      "Alpha Flight",
+      "Starjammers"
+    ]
+  },
+  {
+    "id": "black-panther",
+    "name": "Black Panther",
+    "real_name": "T'Challa",
+    "aliases": [
+      "Black Panther",
+      "T'Challa"
+    ],
+    "first_appearance": "Fantastic Four #52 (July 1966)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#343A40",
+    "emblem": "BP",
+    "bio": "King of Wakanda, the first Black superhero in mainstream American comics. His marriage to Storm (2006–2012) and his wary alliance with the Avengers are written as matters of state rather than feeling.",
+    "affiliations": [
+      "Avengers",
+      "Illuminati",
+      "Wakanda",
+      "Fantastic Four"
+    ]
+  },
+  {
+    "id": "ultron",
+    "name": "Ultron",
+    "real_name": "Ultron",
+    "aliases": [
+      "Ultron",
+      "Crimson Cowl"
+    ],
+    "first_appearance": "Avengers #54 (July 1968)",
+    "creators": [
+      "Roy Thomas",
+      "John Buscema"
+    ],
+    "color": "#9A031E",
+    "emblem": "U",
+    "bio": "Artificial intelligence built by Hank Pym that hates its creator with Oedipal intensity; built the Vision in turn. The Avengers' recurring extinction-level villain and the clearest example of a villain whose entire motive is a relationship.",
+    "affiliations": []
+  },
+  {
+    "id": "mister-fantastic",
+    "name": "Mister Fantastic",
+    "real_name": "Reed Richards",
+    "aliases": [
+      "Mister Fantastic",
+      "Reed",
+      "Stretcho"
+    ],
+    "first_appearance": "Fantastic Four #1 (Nov. 1961)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#1E6091",
+    "emblem": "MF",
+    "bio": "The smartest man in the universe and a distracted husband and father. His marriage to Sue and his rivalry with Doom are the two relationships Marvel has been publishing continuously longer than any others.",
+    "affiliations": [
+      "Fantastic Four",
+      "Illuminati",
+      "Future Foundation"
+    ]
+  },
+  {
+    "id": "invisible-woman",
+    "name": "Invisible Woman",
+    "real_name": "Susan Storm Richards",
+    "aliases": [
+      "Invisible Girl",
+      "Invisible Woman",
+      "Sue"
+    ],
+    "first_appearance": "Fantastic Four #1 (Nov. 1961)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#48CAE4",
+    "emblem": "IW",
+    "bio": "Began as the team's damsel; by the 1980s John Byrne had made her its most powerful member and its real leader. Mother of Franklin and Valeria; the one person Doom treats with courtesy.",
+    "affiliations": [
+      "Fantastic Four",
+      "Future Foundation"
+    ]
+  },
+  {
+    "id": "human-torch",
+    "name": "Human Torch",
+    "real_name": "Jonathan Lowell Spencer Storm",
+    "aliases": [
+      "Human Torch",
+      "Johnny",
+      "Flame-brain"
+    ],
+    "first_appearance": "Fantastic Four #1 (Nov. 1961)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#FF7B00",
+    "emblem": "HT",
+    "bio": "Sue's hot-headed younger brother; the team's teenager even in his thirties. His bickering friendship with Ben Grimm and his rivalry-friendship with Spider-Man are two of Marvel's oldest running jokes.",
+    "affiliations": [
+      "Fantastic Four"
+    ]
+  },
+  {
+    "id": "thing",
+    "name": "The Thing",
+    "real_name": "Benjamin Jacob Grimm",
+    "aliases": [
+      "The Thing",
+      "Ben",
+      "Benjy"
+    ],
+    "first_appearance": "Fantastic Four #1 (Nov. 1961)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#E07A1F",
+    "emblem": "TH",
+    "bio": "Pilot turned rock monster, the one member of the team who did not want his powers. The first Marvel hero written as tragic; his loyalty to Reed, who did this to him, is the FF's emotional spine.",
+    "affiliations": [
+      "Fantastic Four",
+      "Avengers",
+      "Guardians of the Galaxy"
+    ]
+  },
+  {
+    "id": "doctor-doom",
+    "name": "Doctor Doom",
+    "real_name": "Victor von Doom",
+    "aliases": [
+      "Doctor Doom",
+      "Doom",
+      "Victor"
+    ],
+    "first_appearance": "Fantastic Four #5 (July 1962)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#4A5D23",
+    "emblem": "DD",
+    "bio": "Monarch of Latveria, sorcerer-scientist, Reed Richards's college rival and Marvel's model for every villain who thinks he's the hero. Remade reality in his image in Secret Wars (2015) and was briefly, sincerely, an Avenger.",
+    "affiliations": [
+      "Latveria",
+      "Cabal",
+      "Avengers"
+    ]
+  },
+  {
+    "id": "namor",
+    "name": "Namor",
+    "real_name": "Namor McKenzie",
+    "aliases": [
+      "Namor",
+      "Sub-Mariner",
+      "Imperius Rex"
+    ],
+    "first_appearance": "Marvel Comics #1 (Oct. 1939)",
+    "creators": [
+      "Bill Everett"
+    ],
+    "color": "#0077B6",
+    "emblem": "N",
+    "bio": "Marvel's first mutant and first anti-hero, king of Atlantis, in love with Sue Storm since 1962 and at war with the surface world roughly every third year. Sat on the Illuminati and the X-Men's Phoenix Five with equal contempt for both.",
+    "affiliations": [
+      "Atlantis",
+      "Invaders",
+      "Illuminati",
+      "X-Men",
+      "Defenders"
+    ]
+  },
+  {
+    "id": "silver-surfer",
+    "name": "Silver Surfer",
+    "real_name": "Norrin Radd",
+    "aliases": [
+      "Silver Surfer",
+      "Norrin"
+    ],
+    "first_appearance": "Fantastic Four #48 (Mar. 1966)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#C0C0C0",
+    "emblem": "SS",
+    "bio": "Herald of Galactus who turned on his master for Earth's sake and was exiled here for it. The cosmic conscience of the Marvel universe; his friendship with Ben Grimm and Alicia Masters is where the Galactus Trilogy found its heart.",
+    "affiliations": [
+      "Defenders",
+      "Heralds of Galactus"
+    ]
+  },
+  {
+    "id": "galactus",
+    "name": "Galactus",
+    "real_name": "Galan of Taa",
+    "aliases": [
+      "Galactus",
+      "Devourer of Worlds",
+      "Lifebringer"
+    ],
+    "first_appearance": "Fantastic Four #48 (Mar. 1966)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#5E548E",
+    "emblem": "Ω",
+    "bio": "A force of nature with a face, written by Kirby as beyond good and evil. His relationships with his heralds, especially the Surfer, are the only ones the character has.",
+    "affiliations": [
+      "Heralds of Galactus"
+    ]
+  },
+  {
+    "id": "daredevil",
+    "name": "Daredevil",
+    "real_name": "Matthew Michael Murdock",
+    "aliases": [
+      "Daredevil",
+      "Matt",
+      "Man Without Fear"
+    ],
+    "first_appearance": "Daredevil #1 (Apr. 1964)",
+    "creators": [
+      "Stan Lee",
+      "Bill Everett"
+    ],
+    "color": "#A4161A",
+    "emblem": "DD",
+    "bio": "Blind lawyer with hypersenses; Catholic, guilt-ridden, and the Marvel hero whose love interests have the worst survival rate. Frank Miller's run (1979–83) made him and Hell's Kitchen the template for street-level Marvel.",
+    "affiliations": [
+      "Defenders",
+      "Avengers",
+      "Hand"
+    ]
+  },
+  {
+    "id": "elektra",
+    "name": "Elektra",
+    "real_name": "Elektra Natchios",
+    "aliases": [
+      "Elektra",
+      "Daredevil"
+    ],
+    "first_appearance": "Daredevil #168 (Jan. 1981)",
+    "creators": [
+      "Frank Miller"
+    ],
+    "color": "#B5179E",
+    "emblem": "E",
+    "bio": "Matt Murdock's college girlfriend turned assassin, killed by Bullseye in Daredevil #181 (1982) and resurrected by the Hand. Miller extracted a promise that she stay dead; Marvel kept it for about eight years.",
+    "affiliations": [
+      "Hand",
+      "S.H.I.E.L.D.",
+      "Thunderbolts"
+    ]
+  },
+  {
+    "id": "kingpin",
+    "name": "Kingpin",
+    "real_name": "Wilson Grant Fisk",
+    "aliases": [
+      "Kingpin",
+      "Fisk",
+      "Mayor Fisk"
+    ],
+    "first_appearance": "Amazing Spider-Man #50 (July 1967)",
+    "creators": [
+      "Stan Lee",
+      "John Romita Sr."
+    ],
+    "color": "#3C3C3C",
+    "emblem": "K",
+    "bio": "Crime boss introduced as a Spider-Man villain and stolen by Daredevil; the only Marvel villain whose central relationship with a hero is about mutual, personal destruction. Elected mayor of New York in 2017.",
+    "affiliations": [
+      "Maggia"
+    ]
+  },
+  {
+    "id": "punisher",
+    "name": "Punisher",
+    "real_name": "Francis Castle",
+    "aliases": [
+      "Punisher",
+      "Frank Castle",
+      "Frank"
+    ],
+    "first_appearance": "Amazing Spider-Man #129 (Feb. 1974)",
+    "creators": [
+      "Gerry Conway",
+      "John Romita Sr.",
+      "Ross Andru"
+    ],
+    "color": "#1B1B1B",
+    "emblem": "☠",
+    "bio": "Marine whose family was killed by the mob; kills criminals. Introduced to hunt Spider-Man; every hero he meets has the same argument with him and none of them wins it.",
+    "affiliations": []
+  },
+  {
+    "id": "jessica-jones",
+    "name": "Jessica Jones",
+    "real_name": "Jessica Campbell Jones Cage",
+    "aliases": [
+      "Jessica Jones",
+      "Jewel",
+      "Knightress"
+    ],
+    "first_appearance": "Alias #1 (Nov. 2001)",
+    "creators": [
+      "Brian Michael Bendis",
+      "Michael Gaydos"
+    ],
+    "color": "#5C415D",
+    "emblem": "JJ",
+    "bio": "Former superhero turned private investigator, retconned into Peter Parker's high-school class. Alias (2001–04) built a marriage with Luke Cage that has been written as the most stable in the line.",
+    "affiliations": [
+      "Avengers",
+      "New Avengers",
+      "Alias Investigations"
+    ]
+  },
+  {
+    "id": "luke-cage",
+    "name": "Luke Cage",
+    "real_name": "Carl Lucas",
+    "aliases": [
+      "Luke Cage",
+      "Power Man"
+    ],
+    "first_appearance": "Luke Cage, Hero for Hire #1 (June 1972)",
+    "creators": [
+      "Archie Goodwin",
+      "John Romita Sr.",
+      "George Tuska"
+    ],
+    "color": "#F4A261",
+    "emblem": "LC",
+    "bio": "Wrongly imprisoned man with unbreakable skin; the first Black superhero to headline a Marvel book. Heroes for Hire with Iron Fist, husband of Jessica Jones, and leader of the New Avengers in the post-Civil War years.",
+    "affiliations": [
+      "Heroes for Hire",
+      "Defenders",
+      "Avengers",
+      "Thunderbolts"
+    ]
+  },
+  {
+    "id": "doctor-strange",
+    "name": "Doctor Strange",
+    "real_name": "Stephen Vincent Strange",
+    "aliases": [
+      "Doctor Strange",
+      "Stephen",
+      "Sorcerer Supreme"
+    ],
+    "first_appearance": "Strange Tales #110 (July 1963)",
+    "creators": [
+      "Stan Lee",
+      "Steve Ditko"
+    ],
+    "color": "#6A0572",
+    "emblem": "DS",
+    "bio": "Arrogant surgeon who lost his hands and became Sorcerer Supreme. His relationships are mostly alliances of necessity — the Defenders, the Illuminati — and his romance with Clea.",
+    "affiliations": [
+      "Defenders",
+      "Illuminati",
+      "Avengers"
+    ]
+  },
+  {
+    "id": "cable",
+    "name": "Cable",
+    "real_name": "Nathan Christopher Charles Summers",
+    "aliases": [
+      "Cable",
+      "Nathan",
+      "Askani'son"
+    ],
+    "first_appearance": "New Mutants #87 (Mar. 1990)",
+    "creators": [
+      "Rob Liefeld",
+      "Louise Simonson"
+    ],
+    "color": "#708090",
+    "emblem": "CB",
+    "bio": "Son of Cyclops and Madelyne Pryor (Jean's clone), raised two thousand years in the future, returned as a middle-aged soldier older than his father. The relationship with Scott is the X-Men's strangest father–son story.",
+    "affiliations": [
+      "X-Force",
+      "New Mutants",
+      "X-Men",
+      "Six Pack"
+    ]
+  },
+  {
+    "id": "deadpool",
+    "name": "Deadpool",
+    "real_name": "Wade Winston Wilson",
+    "aliases": [
+      "Deadpool",
+      "Wade",
+      "Merc with a Mouth"
+    ],
+    "first_appearance": "New Mutants #98 (Feb. 1991)",
+    "creators": [
+      "Rob Liefeld",
+      "Fabian Nicieza"
+    ],
+    "color": "#FF1744",
+    "emblem": "DP",
+    "bio": "Mercenary with a healing factor and a broken fourth wall. Introduced as a Cable villain; his one-sided friendships with Cable, Wolverine and Spider-Man are the character's actual plot.",
+    "affiliations": [
+      "X-Force",
+      "Avengers Unity Squad",
+      "Mercs for Money"
+    ]
+  },
+  {
+    "id": "apocalypse",
+    "name": "Apocalypse",
+    "real_name": "En Sabah Nur",
+    "aliases": [
+      "Apocalypse",
+      "En Sabah Nur"
+    ],
+    "first_appearance": "X-Factor #5 (June 1986)",
+    "creators": [
+      "Louise Simonson",
+      "Jackson Guice"
+    ],
+    "color": "#4B3F72",
+    "emblem": "Ⓐ",
+    "bio": "Five-thousand-year-old mutant who believes in survival of the fittest and has reorganised two civilisations around it. His relationship with Magneto is a philosophical escalation; on Krakoa he became a council member and a husband.",
+    "affiliations": [
+      "Horsemen",
+      "Quiet Council"
+    ]
+  },
+  {
+    "id": "jubilee",
+    "name": "Jubilee",
+    "real_name": "Jubilation Lee",
+    "aliases": [
+      "Jubilee",
+      "Jubes"
+    ],
+    "first_appearance": "Uncanny X-Men #244 (May 1989)",
+    "creators": [
+      "Chris Claremont",
+      "Marc Silvestri"
+    ],
+    "color": "#FF69B4",
+    "emblem": "J",
+    "bio": "Mall rat with fireworks powers who attached herself to Wolverine and became his second protégée after Kitty; later a vampire, later a mother. The X-Men's 90s point-of-view character.",
+    "affiliations": [
+      "X-Men",
+      "Generation X",
+      "New Warriors"
+    ]
+  },
+  {
+    "id": "x-23",
+    "name": "Wolverine (Laura)",
+    "real_name": "Laura Kinney",
+    "aliases": [
+      "X-23",
+      "Wolverine",
+      "Laura",
+      "Talon"
+    ],
+    "first_appearance": "NYX #3 (Feb. 2005) (TV: X-Men: Evolution, 2003)",
+    "creators": [
+      "Craig Kyle",
+      "Christopher Yost"
+    ],
+    "color": "#C9A227",
+    "emblem": "X",
+    "bio": "Clone-daughter of Wolverine raised as a weapon; took his name after his death (All-New Wolverine, 2015). Their relationship is the series' best treatment of the gap between being made and being raised.",
+    "affiliations": [
+      "X-Force",
+      "X-Men",
+      "New X-Men",
+      "Avengers Academy"
+    ]
+  },
+  {
+    "id": "thanos",
+    "name": "Thanos",
+    "real_name": "Thanos",
+    "aliases": [
+      "Thanos",
+      "Mad Titan"
+    ],
+    "first_appearance": "Iron Man #55 (Feb. 1973)",
+    "creators": [
+      "Jim Starlin"
+    ],
+    "color": "#5C2A9D",
+    "emblem": "T",
+    "bio": "Eternal from Titan, in love with the personification of Death, willing to kill half the universe to impress her. His relationships — with Death, with his adopted daughter Gamora, with his brother Starfox — are the only things that have ever stopped him.",
+    "affiliations": [
+      "Black Order",
+      "Cabal"
+    ]
   }
 ]

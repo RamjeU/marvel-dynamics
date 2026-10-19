@@ -104,3 +104,22 @@ select:focus, input:focus { outline: 1px solid var(--accent); }
 .list button:hover { border-color: var(--accent); }
 .list .dot { width: 10px; height: 10px; border-radius: 3px; flex: none; }
 .list small { color: var(--ink-3); font-family: var(--font-mono); font-size: 11px; margin-left: auto; }
+
+/* ---------- year bar ---------- */
+.yearbar { display: flex; align-items: center; gap: 10px; width: 100%; margin-top: 2px; }
+.yearbar .toggle { display: inline-flex; align-items: center; gap: 6px; font-family: var(--font-mono); font-size: 11px; color: var(--ink-3); text-transform: uppercase; letter-spacing: 0.08em; cursor: pointer; }
+.yearbar input[type=range] { flex: 1; max-width: 520px; accent-color: var(--accent); }
+.yearbar input[type=range]:disabled { opacity: 0.35; }
+.yearbar .year { font-family: var(--font-display); font-size: 22px; letter-spacing: 0.06em; color: var(--accent); min-width: 56px; }
+.yearbar .year.off { color: var(--ink-3); }
+
+/* ---------- stats strip ---------- */
+.graph-col { display: grid; grid-template-rows: 1fr auto; min-height: 0; }
+.stats { display: flex; gap: 16px; flex-wrap: wrap; padding: 6px 14px; border-top: 1px solid var(--line); background: var(--bg-2); font-family: var(--font-mono); font-size: 11px; color: var(--ink-2); }
+.stats b { color: var(--ink); font-weight: 500; }
+
+/* ---------- panel extras ---------- */
+.teams { display: flex; gap: 6px; flex-wrap: wrap; margin: -6px 0 14px; }
+.teams .chip { font-family: var(--font-body); color: var(--ink-2); }
+.teams .chip:hover { border-color: var(--accent); color: var(--ink); }
+.type-row { display: flex; gap: 10px; flex-wrap: wrap; font-family: var(--font-mono); font-size: 11px; margin: -4px 0 10px; }

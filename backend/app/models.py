@@ -37,6 +37,7 @@ class Character(Base):
     marvel_api_id: Mapped[int | None] = mapped_column(Integer)
     comicvine_id: Mapped[int | None] = mapped_column(Integer)
     image_url: Mapped[str | None] = mapped_column(String)
+    affiliations: Mapped[list | None] = mapped_column(JSON)
 
     outgoing: Mapped[list[Relationship]] = relationship(
         back_populates="source", foreign_keys="Relationship.source_id"
@@ -60,6 +61,8 @@ class Relationship(Base):
     summary: Mapped[str | None] = mapped_column(Text)
     start_issue: Mapped[str | None] = mapped_column(String)
     end_issue: Mapped[str | None] = mapped_column(String)
+    start_year: Mapped[int | None] = mapped_column(Integer, index=True)
+    end_year: Mapped[int | None] = mapped_column(Integer)
 
     source: Mapped[Character] = relationship(foreign_keys=[source_id], back_populates="outgoing")
     target: Mapped[Character] = relationship(foreign_keys=[target_id], back_populates="incoming")

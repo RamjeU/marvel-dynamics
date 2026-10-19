@@ -36,6 +36,7 @@ class CharacterOut(CharacterBrief):
     first_appearance: str | None = None
     creators: list[str] | None = None
     bio: str | None = None
+    affiliations: list[str] | None = None
     marvel_api_id: int | None = None
     comicvine_id: int | None = None
 
@@ -58,6 +59,8 @@ class RelationshipOut(ORM):
     summary: str | None = None
     start_issue: str | None = None
     end_issue: str | None = None
+    start_year: int | None = None
+    end_year: int | None = None
     events: list[EventOut] = []
 
 
@@ -71,6 +74,7 @@ class GraphNode(BaseModel):
     color: str | None = None
     emblem: str | None = None
     degree: int
+    affiliations: list[str] | None = None
 
 
 class GraphLink(BaseModel):
@@ -81,6 +85,8 @@ class GraphLink(BaseModel):
     label: str | None = None
     continuity: str
     era: str | None = None
+    start_year: int | None = None
+    end_year: int | None = None
 
 
 class GraphOut(BaseModel):

@@ -35,7 +35,9 @@
         "year": 2019,
         "note": "Xavier and Magneto co-found the mutant nation of Krakoa."
       }
-    ]
+    ],
+    "start_year": 1963,
+    "end_year": null
   },
   {
     "source": "cyclops",
@@ -73,7 +75,9 @@
         "year": 2004,
         "note": "Jean is killed by Xorn/Magneto; she tells Scott to live."
       }
-    ]
+    ],
+    "start_year": 1963,
+    "end_year": null
   },
   {
     "source": "cyclops",
@@ -106,7 +110,9 @@
         "year": 2012,
         "note": "Logan sides with the Avengers against a Phoenix-possessed Cyclops."
       }
-    ]
+    ],
+    "start_year": 1975,
+    "end_year": null
   },
   {
     "source": "wolverine",
@@ -134,7 +140,9 @@
         "year": 2005,
         "note": "Phoenix-Jean seeks out Logan; he refuses her repeatedly."
       }
-    ]
+    ],
+    "start_year": 1976,
+    "end_year": null
   },
   {
     "source": "cyclops",
@@ -167,7 +175,9 @@
         "year": 2012,
         "note": "Scott takes Emma's share of the Phoenix by force."
       }
-    ]
+    ],
+    "start_year": 2002,
+    "end_year": null
   },
   {
     "source": "jean-grey",
@@ -190,7 +200,9 @@
         "year": 2018,
         "note": "Jean's return; Emma among those present."
       }
-    ]
+    ],
+    "start_year": 2003,
+    "end_year": null
   },
   {
     "source": "storm",
@@ -218,7 +230,9 @@
         "year": 2014,
         "note": "Logan dies; Storm leads the mourning."
       }
-    ]
+    ],
+    "start_year": 1980,
+    "end_year": null
   },
   {
     "source": "storm",
@@ -246,7 +260,9 @@
         "year": 1984,
         "note": "Reconciliation."
       }
-    ]
+    ],
+    "start_year": 1980,
+    "end_year": null
   },
   {
     "source": "kitty-pryde",
@@ -279,7 +295,9 @@
         "year": 2018,
         "note": "Kitty halts the wedding; Rogue and Gambit marry instead."
       }
-    ]
+    ],
+    "start_year": 1980,
+    "end_year": null
   },
   {
     "source": "colossus",
@@ -307,7 +325,9 @@
         "year": 2009,
         "note": "Magik, restored, rejoins the team."
       }
-    ]
+    ],
+    "start_year": 1982,
+    "end_year": null
   },
   {
     "source": "kitty-pryde",
@@ -330,7 +350,9 @@
         "year": 1981,
         "note": "Christmas issue: Kitty alone at the mansion, Kurt among those she now counts as family."
       }
-    ]
+    ],
+    "start_year": 1980,
+    "end_year": null
   },
   {
     "source": "nightcrawler",
@@ -358,7 +380,9 @@
         "year": 2014,
         "note": "Kurt returns from the afterlife."
       }
-    ]
+    ],
+    "start_year": 1978,
+    "end_year": null
   },
   {
     "source": "mystique",
@@ -386,7 +410,9 @@
         "year": 2004,
         "note": "'The Draco' names Azazel as his father."
       }
-    ]
+    ],
+    "start_year": 1981,
+    "end_year": null
   },
   {
     "source": "mystique",
@@ -414,7 +440,9 @@
         "year": 2009,
         "note": "Rogue gains control of her power; Mystique's manipulations in the surrounding arc resurface."
       }
-    ]
+    ],
+    "start_year": 1981,
+    "end_year": null
   },
   {
     "source": "rogue",
@@ -442,7 +470,9 @@
         "year": 2018,
         "note": "Rogue and Gambit marry."
       }
-    ]
+    ],
+    "start_year": 1992,
+    "end_year": null
   },
   {
     "source": "magneto",
@@ -465,7 +495,9 @@
         "year": 1991,
         "note": "Magneto executes Zaladane; Rogue cannot follow him."
       }
-    ]
+    ],
+    "start_year": 1991,
+    "end_year": null
   },
   {
     "source": "magneto",
@@ -483,7 +515,9 @@
         "year": 1995,
         "note": "Magneto and Rogue shown as husband and wife."
       }
-    ]
+    ],
+    "start_year": 1995,
+    "end_year": null
   },
   {
     "source": "charles-xavier",
@@ -511,7 +545,9 @@
         "year": 2012,
         "note": "Dark Phoenix Cyclops kills Xavier."
       }
-    ]
+    ],
+    "start_year": 1963,
+    "end_year": null
   },
   {
     "source": "charles-xavier",
@@ -534,7 +570,9 @@
         "year": 2005,
         "note": "Jean's Phoenix return; Xavier's role in suppressing her power earlier is part of the backstory."
       }
-    ]
+    ],
+    "start_year": 1964,
+    "end_year": null
   },
   {
     "source": "wolverine",
@@ -557,7 +595,9 @@
         "year": 2011,
         "note": "Kitty is co-headmistress of the Jean Grey School."
       }
-    ]
+    ],
+    "start_year": 1985,
+    "end_year": null
   },
   {
     "source": "emma-frost",
@@ -580,7 +620,9 @@
         "year": 2007,
         "note": "Emma, under the Hellfire Club's influence, turns on Kitty."
       }
-    ]
+    ],
+    "start_year": 2004,
+    "end_year": null
   },
   {
     "source": "mystique",
@@ -608,7 +650,9 @@
         "year": 2021,
         "note": "Destiny is resurrected; the two are stated on the page as married."
       }
-    ]
+    ],
+    "start_year": 1981,
+    "end_year": null
   },
   {
     "source": "beast",
@@ -636,7 +680,9 @@
         "year": 2015,
         "note": "Young Bobby comes out; adult Bobby follows in Uncanny X-Men #600."
       }
-    ]
+    ],
+    "start_year": 1963,
+    "end_year": null
   },
   {
     "source": "cyclops",
@@ -659,7 +705,9 @@
         "year": 2012,
         "note": "Alex leads the Unity Squad while Scott is imprisoned."
       }
-    ]
+    ],
+    "start_year": 1969,
+    "end_year": null
   },
   {
     "source": "storm",
@@ -682,7 +730,9 @@
         "year": 2018,
         "note": "Returned Jean recruits Storm first for her new team."
       }
-    ]
+    ],
+    "start_year": 1976,
+    "end_year": null
   },
   {
     "source": "cyclops",
@@ -705,7 +755,9 @@
         "year": 2003,
         "note": "Jean leaves Scott for Logan, briefly."
       }
-    ]
+    ],
+    "start_year": 2001,
+    "end_year": null
   },
   {
     "source": "charles-xavier",
@@ -728,7 +780,9 @@
         "year": 2019,
         "note": "Beast takes charge of Krakoa's intelligence arm with Xavier's tacit blessing."
       }
-    ]
+    ],
+    "start_year": 1963,
+    "end_year": null
   },
   {
     "source": "charles-xavier",
@@ -746,7 +800,9 @@
         "year": 1963,
         "note": "Joins as the youngest of the original five."
       }
-    ]
+    ],
+    "start_year": 1963,
+    "end_year": null
   },
   {
     "source": "cyclops",
@@ -769,7 +825,9 @@
         "year": 2012,
         "note": "Beast pulls the young X-Men from the past to confront the adult Cyclops."
       }
-    ]
+    ],
+    "start_year": 1963,
+    "end_year": null
   },
   {
     "source": "cyclops",
@@ -792,7 +850,9 @@
         "year": 2011,
         "note": "Iceman stays with Cyclops on Utopia."
       }
-    ]
+    ],
+    "start_year": 1963,
+    "end_year": null
   },
   {
     "source": "jean-grey",
@@ -810,7 +870,9 @@
         "year": 1986,
         "note": "Reunited in X-Factor after Jean's return."
       }
-    ]
+    ],
+    "start_year": 1986,
+    "end_year": null
   },
   {
     "source": "jean-grey",
@@ -828,7 +890,9 @@
         "year": 2015,
         "note": "Young Jean tells young Bobby what she has read in his mind."
       }
-    ]
+    ],
+    "start_year": 2015,
+    "end_year": null
   },
   {
     "source": "beast",
@@ -846,7 +910,9 @@
         "year": 2019,
         "note": "Both on Krakoa's X-Force; Beast's ethics drift past Wolverine's."
       }
-    ]
+    ],
+    "start_year": 2019,
+    "end_year": null
   },
   {
     "source": "spider-man",
@@ -879,7 +945,9 @@
         "year": 2007,
         "note": "One More Day: the marriage is erased."
       }
-    ]
+    ],
+    "start_year": 1966,
+    "end_year": null
   },
   {
     "source": "spider-man",
@@ -902,7 +970,9 @@
         "year": 1973,
         "note": "The Night Gwen Stacy Died."
       }
-    ]
+    ],
+    "start_year": 1965,
+    "end_year": null
   },
   {
     "source": "spider-man",
@@ -930,7 +1000,9 @@
         "year": 1993,
         "note": "Harry dies saving Peter and Normie."
       }
-    ]
+    ],
+    "start_year": 1971,
+    "end_year": null
   },
   {
     "source": "spider-man",
@@ -958,7 +1030,9 @@
         "year": 1996,
         "note": "Norman revealed alive, behind the Clone Saga."
       }
-    ]
+    ],
+    "start_year": 1966,
+    "end_year": null
   },
   {
     "source": "harry-osborn",
@@ -976,7 +1050,9 @@
         "year": 1966,
         "note": "Norman's origin reveals his coldness toward Harry."
       }
-    ]
+    ],
+    "start_year": 1966,
+    "end_year": null
   },
   {
     "source": "spider-man",
@@ -999,7 +1075,9 @@
         "year": 2002,
         "note": "'The Conversation': May tells Peter she knows."
       }
-    ]
+    ],
+    "start_year": 1962,
+    "end_year": null
   },
   {
     "source": "spider-man",
@@ -1022,7 +1100,9 @@
         "year": 1984,
         "note": "Peter unmasks; Felicia is unimpressed by Peter Parker."
       }
-    ]
+    ],
+    "start_year": 1979,
+    "end_year": null
   },
   {
     "source": "spider-man",
@@ -1045,7 +1125,9 @@
         "year": 1993,
         "note": "Truce: Venom becomes an anti-hero."
       }
-    ]
+    ],
+    "start_year": 1988,
+    "end_year": null
   },
   {
     "source": "spider-man",
@@ -1073,7 +1155,9 @@
         "year": 2014,
         "note": "Otto yields the body back to Peter."
       }
-    ]
+    ],
+    "start_year": 1963,
+    "end_year": null
   },
   {
     "source": "spider-man",
@@ -1096,7 +1180,9 @@
         "year": 2016,
         "note": "Miles operating in Earth-616."
       }
-    ]
+    ],
+    "start_year": 2012,
+    "end_year": null
   },
   {
     "source": "spider-man",
@@ -1119,7 +1205,9 @@
         "year": 2011,
         "note": "Miles debuts."
       }
-    ]
+    ],
+    "start_year": 2011,
+    "end_year": null
   },
   {
     "source": "mary-jane",
@@ -1137,7 +1225,9 @@
         "year": 1973,
         "note": "MJ stays with Peter the night after Gwen dies."
       }
-    ]
+    ],
+    "start_year": 1973,
+    "end_year": null
   },
   {
     "source": "spider-man",
@@ -1160,7 +1250,9 @@
         "year": 2005,
         "note": "Both founding members of the New Avengers."
       }
-    ]
+    ],
+    "start_year": 1987,
+    "end_year": null
   },
   {
     "source": "spider-man",
@@ -1183,6 +1275,1928 @@
         "year": 2007,
         "note": "Kitty ends it; Peter returns to MJ."
       }
-    ]
+    ],
+    "start_year": 2007,
+    "end_year": null
+  },
+  {
+    "source": "captain-america",
+    "target": "iron-man",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Avengers #4 (1964)",
+    "end_issue": null,
+    "label": "Friends who went to war with each other",
+    "summary": "The Avengers' two leaders: the soldier who distrusts systems and the engineer who builds them. Civil War (2006–07) split the superhero community between them, and Steve's assassination at the end of it is the thing Tony has never stopped apologising for.",
+    "events": [
+      {
+        "issue": "Avengers #4 (1964)",
+        "year": 1964,
+        "note": "Stark's Avengers find Rogers frozen in ice."
+      },
+      {
+        "issue": "Civil War #1–7 (2006–07)",
+        "year": 2007,
+        "note": "Registration splits them; Cap surrenders in #7."
+      },
+      {
+        "issue": "Captain America #25 (2007)",
+        "year": 2007,
+        "note": "Steve is shot on the courthouse steps."
+      },
+      {
+        "issue": "Avengers vol. 5 #1 (2012)",
+        "year": 2012,
+        "note": "Rebuilt partnership at the head of a larger Avengers."
+      }
+    ],
+    "start_year": 1964,
+    "end_year": null
+  },
+  {
+    "source": "captain-america",
+    "target": "winter-soldier",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "Captain America Comics #1 (1941)",
+    "end_issue": null,
+    "label": "The partner who came back",
+    "summary": "Bucky was Cap's kid sidekick in the war, dead for sixty years of publishing, then revealed in 2005 as the brainwashed Winter Soldier. Steve's refusal to give up on him, and Bucky carrying the shield after Steve's death, is Brubaker's whole run.",
+    "events": [
+      {
+        "issue": "Avengers #4 (1964)",
+        "year": 1964,
+        "note": "Cap's survivor's guilt over Bucky's death established."
+      },
+      {
+        "issue": "Captain America vol. 5 #11 (2005)",
+        "year": 2005,
+        "note": "The Winter Soldier is revealed as Bucky."
+      },
+      {
+        "issue": "Captain America #34 (2008)",
+        "year": 2008,
+        "note": "Bucky becomes Captain America."
+      }
+    ],
+    "start_year": 1964,
+    "end_year": null
+  },
+  {
+    "source": "iron-man",
+    "target": "hank-pym",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Avengers #1 (1963)",
+    "end_issue": null,
+    "label": "Founding scientists",
+    "summary": "Two founding Avengers and the team's engineers; Tony's later disdain for Hank (over Ultron, over Jan) and Hank's resentment of Tony's success colour a relationship that is cordial on the surface.",
+    "events": [
+      {
+        "issue": "Avengers #1 (1963)",
+        "year": 1963,
+        "note": "Both founding members."
+      },
+      {
+        "issue": "Avengers: Rage of Ultron (2015)",
+        "year": 2015,
+        "note": "Pym merges with Ultron; Stark among those who must respond."
+      }
+    ],
+    "start_year": 1963,
+    "end_year": null
+  },
+  {
+    "source": "hank-pym",
+    "target": "wasp",
+    "type": "romance",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Tales to Astonish #44 (1963)",
+    "end_issue": "Avengers #214 (1981)",
+    "label": "Marriage ended by a blow",
+    "summary": "Partners from Jan's first appearance, married in Avengers #60 (1969), divorced after Hank struck her during his Yellowjacket breakdown in Avengers #213 (1981). Marvel has never let either character forget it, and neither should it.",
+    "events": [
+      {
+        "issue": "Avengers #60 (1969)",
+        "year": 1969,
+        "note": "Wedding (with Hank as Yellowjacket)."
+      },
+      {
+        "issue": "Avengers #213 (1981)",
+        "year": 1981,
+        "note": "Hank hits Jan; the marriage ends."
+      },
+      {
+        "issue": "Avengers #224 (1982)",
+        "year": 1982,
+        "note": "Jan, now leader, keeps Hank off the team."
+      }
+    ],
+    "start_year": 1963,
+    "end_year": 1981
+  },
+  {
+    "source": "hank-pym",
+    "target": "ultron",
+    "type": "family",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Avengers #54 (1968)",
+    "end_issue": null,
+    "label": "Creator and creation",
+    "summary": "Hank built Ultron from his own brain patterns and Ultron has spent sixty years trying to kill 'father'. The relationship is written explicitly as Oedipal, and it ended — for a while — with the two merged into one being (Rage of Ultron, 2015).",
+    "events": [
+      {
+        "issue": "Avengers #58 (1968)",
+        "year": 1968,
+        "note": "Ultron's origin as Pym's creation revealed."
+      },
+      {
+        "issue": "Avengers: Rage of Ultron (2015)",
+        "year": 2015,
+        "note": "Pym and Ultron fused."
+      }
+    ],
+    "start_year": 1968,
+    "end_year": null
+  },
+  {
+    "source": "ultron",
+    "target": "vision",
+    "type": "family",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Avengers #57 (1968)",
+    "end_issue": null,
+    "label": "Built to be a weapon, chose not to be",
+    "summary": "Ultron created the Vision to infiltrate the Avengers; the Vision defected in his first issue. Ultron's resentment of his 'son' and the Vision's refusal to be defined by his maker mirror the Pym–Ultron relationship one generation down.",
+    "events": [
+      {
+        "issue": "Avengers #57–58 (1968)",
+        "year": 1968,
+        "note": "Vision created by Ultron, joins the Avengers."
+      }
+    ],
+    "start_year": 1968,
+    "end_year": null
+  },
+  {
+    "source": "scarlet-witch",
+    "target": "vision",
+    "type": "romance",
+    "continuity": "earth-616",
+    "era": "bronze-age",
+    "start_issue": "Avengers #91 (1971)",
+    "end_issue": "Avengers vol. 3 #503 (2004)",
+    "label": "The witch and the machine",
+    "summary": "Married in Giant-Size Avengers #4 (1975), had twin sons by magic, lost them when they were revealed as fragments of Mephisto (Avengers West Coast #52, 1989). The grief drove Avengers Disassembled and House of M; the marriage never recovered.",
+    "events": [
+      {
+        "issue": "Giant-Size Avengers #4 (1975)",
+        "year": 1975,
+        "note": "Wedding."
+      },
+      {
+        "issue": "Avengers West Coast #52 (1989)",
+        "year": 1989,
+        "note": "The twins are unmade."
+      },
+      {
+        "issue": "Avengers #500–503 (2004)",
+        "year": 2004,
+        "note": "Disassembled: Wanda destroys the team and the Vision."
+      },
+      {
+        "issue": "Avengers vol. 8 #1 (2018)",
+        "year": 2018,
+        "note": "Working together again, uneasily."
+      }
+    ],
+    "start_year": 1971,
+    "end_year": 2004
+  },
+  {
+    "source": "scarlet-witch",
+    "target": "quicksilver",
+    "type": "family",
+    "continuity": "earth-616",
+    "era": "silver-age",
+    "start_issue": "X-Men #4 (1964)",
+    "end_issue": null,
+    "label": "Twins",
+    "summary": "Introduced together in Magneto's Brotherhood and inseparable since; Pietro's protectiveness and Wanda's instability are the relationship's two constants. Both left the Brotherhood for the Avengers in Avengers #16 (1965).",
+    "events": [
+      {
+        "issue": "X-Men #4 (1964)",
+        "year": 1964,
+        "note": "Debut in the Brotherhood of Evil Mutants."
+      },
+      {
+        "issue": "Avengers #16 (1965)",
+        "year": 1965,
+        "note": "Both join the Avengers."
+      },
+      {
+        "issue": "House of M #1 (2005)",
+        "year": 2005,
+        "note": "Pietro manipulates a broken Wanda into remaking reality."
+      }
+    ],
+    "start_year": 1964,
+    "end_year": null
+  },
+  {
+    "source": "magneto",
+    "target": "scarlet-witch",
+    "type": "family",
+    "continuity": "earth-616",
+    "era": "claremont",
+    "start_issue": "Vision and the Scarlet Witch #4 (1983)",
+    "end_issue": "Uncanny Avengers vol. 2 #4 (2015)",
+    "label": "Father, then not",
+    "summary": "Revealed as Wanda and Pietro's father in 1983, retconned out in AXIS/Uncanny Avengers (2014–15). For thirty years the relationship was the point where the X-Men and Avengers overlapped; Magneto's grief at the retcon was written as real.",
+    "events": [
+      {
+        "issue": "Vision and the Scarlet Witch #4 (1983)",
+        "year": 1983,
+        "note": "Magneto learns he is their father."
+      },
+      {
+        "issue": "House of M #7 (2005)",
+        "year": 2005,
+        "note": "Magneto nearly kills Pietro over the House of M."
+      },
+      {
+        "issue": "Uncanny Avengers vol. 2 #4 (2015)",
+        "year": 2015,
+        "note": "The parentage is undone."
+      }
+    ],
+    "start_year": 1983,
+    "end_year": 2015
+  },
+  {
+    "source": "magneto",
+    "target": "quicksilver",
+    "type": "family",
+    "continuity": "earth-616",
+    "era": "claremont",
+    "start_issue": "Vision and the Scarlet Witch #4 (1983)",
+    "end_issue": "Uncanny Avengers vol. 2 #4 (2015)",
+    "label": "The son who could never please him",
+    "summary": "Pietro inherited Magneto's arrogance without his conviction; their relationship was one of mutual disappointment until the retcon.",
+    "events": [
+      {
+        "issue": "House of M #7 (2005)",
+        "year": 2005,
+        "note": "Magneto beats Pietro nearly to death for using Wanda."
+      }
+    ],
+    "start_year": 1983,
+    "end_year": 2015
+  },
+  {
+    "source": "thor",
+    "target": "loki",
+    "type": "family",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Journey into Mystery #85 (1962)",
+    "end_issue": null,
+    "label": "Brothers, forever",
+    "summary": "Adopted brothers whose rivalry is the oldest continuously published relationship at Marvel after the FF's. Loki's schemes assembled the Avengers; his death and rebirth as a child (Siege, 2010) and Thor's refusal to give up on him are the modern version of the story.",
+    "events": [
+      {
+        "issue": "Journey into Mystery #85 (1962)",
+        "year": 1962,
+        "note": "Loki debuts, already scheming."
+      },
+      {
+        "issue": "Avengers #1 (1963)",
+        "year": 1963,
+        "note": "Loki's plot against Thor accidentally forms the Avengers."
+      },
+      {
+        "issue": "Siege #4 (2010)",
+        "year": 2010,
+        "note": "Loki dies saving Asgard."
+      },
+      {
+        "issue": "Thor #617 (2010)",
+        "year": 2010,
+        "note": "Reborn as Kid Loki."
+      }
+    ],
+    "start_year": 1962,
+    "end_year": null
+  },
+  {
+    "source": "thor",
+    "target": "hulk",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Journey into Mystery #112 (1965)",
+    "end_issue": null,
+    "label": "Who's stronger",
+    "summary": "The Marvel universe's longest-running strength contest, written as a friendship with a grudge. Planet Hulk/World War Hulk (2006–07) made it serious.",
+    "events": [
+      {
+        "issue": "Journey into Mystery #112 (1965)",
+        "year": 1965,
+        "note": "'The Mighty Thor Battles the Incredible Hulk!'"
+      },
+      {
+        "issue": "World War Hulk #1–5 (2007)",
+        "year": 2007,
+        "note": "Hulk returns to Earth for revenge on the Illuminati."
+      }
+    ],
+    "start_year": 1965,
+    "end_year": null
+  },
+  {
+    "source": "iron-man",
+    "target": "hulk",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "Avengers #1 (1963)",
+    "end_issue": null,
+    "label": "The man who shot him into space",
+    "summary": "Founding Avengers, but Tony's Illuminati exiled Bruce to another planet (Planet Hulk, 2006) and Hulk came back to break them. The relationship is the clearest example of Stark deciding for everyone.",
+    "events": [
+      {
+        "issue": "Avengers #1 (1963)",
+        "year": 1963,
+        "note": "Both founding members."
+      },
+      {
+        "issue": "Incredible Hulk #92 (2006)",
+        "year": 2006,
+        "note": "Illuminati launch the Hulk into space."
+      },
+      {
+        "issue": "World War Hulk #1 (2007)",
+        "year": 2007,
+        "note": "Hulk destroys Stark's armour and Avengers Tower."
+      }
+    ],
+    "start_year": 1963,
+    "end_year": null
+  },
+  {
+    "source": "black-widow",
+    "target": "hawkeye",
+    "type": "romance",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Tales of Suspense #57 (1964)",
+    "end_issue": "Avengers #16 (1965)",
+    "label": "She recruited him; he reformed for her",
+    "summary": "Natasha, still a Soviet agent, seduced Clint into attacking Iron Man; he joined the Avengers to go straight and she followed later. Written as a short romance and a permanent friendship.",
+    "events": [
+      {
+        "issue": "Tales of Suspense #57 (1964)",
+        "year": 1964,
+        "note": "Hawkeye debuts as Black Widow's partner in crime."
+      },
+      {
+        "issue": "Avengers #16 (1965)",
+        "year": 1965,
+        "note": "Clint joins the Avengers."
+      }
+    ],
+    "start_year": 1964,
+    "end_year": 1965
+  },
+  {
+    "source": "black-widow",
+    "target": "daredevil",
+    "type": "romance",
+    "continuity": "earth-616",
+    "era": "bronze-age",
+    "start_issue": "Daredevil #81 (1971)",
+    "end_issue": "Daredevil #124 (1975)",
+    "label": "Partners in San Francisco",
+    "summary": "Natasha and Matt were a couple and co-headliners (the book was retitled Daredevil and the Black Widow) through the early 1970s. One of the few Daredevil romances to end without a funeral.",
+    "events": [
+      {
+        "issue": "Daredevil #81 (1971)",
+        "year": 1971,
+        "note": "Natasha joins the book."
+      },
+      {
+        "issue": "Daredevil #124 (1975)",
+        "year": 1975,
+        "note": "The relationship ends."
+      }
+    ],
+    "start_year": 1971,
+    "end_year": 1975
+  },
+  {
+    "source": "black-widow",
+    "target": "winter-soldier",
+    "type": "romance",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "Captain America vol. 5 #27 (2007)",
+    "end_issue": "Winter Soldier #14 (2013)",
+    "label": "Trained together in the Red Room",
+    "summary": "Brubaker revealed that the Winter Soldier had trained Natasha in the Red Room and that they had been lovers; they resumed it after Bucky's return and it ended when her memory of him was erased.",
+    "events": [
+      {
+        "issue": "Captain America vol. 5 #27 (2007)",
+        "year": 2007,
+        "note": "Bucky and Natasha's shared past revealed."
+      },
+      {
+        "issue": "Winter Soldier #14 (2013)",
+        "year": 2013,
+        "note": "Natasha's memories of Bucky are erased; the relationship ends."
+      }
+    ],
+    "start_year": 2007,
+    "end_year": 2013
+  },
+  {
+    "source": "captain-america",
+    "target": "hawkeye",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Avengers #16 (1965)",
+    "end_issue": null,
+    "label": "The loudmouth and the leader",
+    "summary": "Clint spent the Silver Age mouthing off to Cap and the Bronze Age wanting his approval; the relationship is affectionate competition, and Clint has led teams specifically to prove the point.",
+    "events": [
+      {
+        "issue": "Avengers #16 (1965)",
+        "year": 1965,
+        "note": "'The Old Order Changeth': Clint joins under Cap's leadership."
+      },
+      {
+        "issue": "West Coast Avengers #1 (1984)",
+        "year": 1984,
+        "note": "Clint leads his own team."
+      }
+    ],
+    "start_year": 1965,
+    "end_year": null
+  },
+  {
+    "source": "captain-america",
+    "target": "scarlet-witch",
+    "type": "mentorship",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Avengers #16 (1965)",
+    "end_issue": null,
+    "label": "The captain and the reformed villain",
+    "summary": "Steve took in the Maximoff twins from Magneto's Brotherhood; for decades he was the Avenger Wanda trusted most, which is why her turning on the team in Disassembled hurt.",
+    "events": [
+      {
+        "issue": "Avengers #16 (1965)",
+        "year": 1965,
+        "note": "Cap recruits Wanda and Pietro."
+      }
+    ],
+    "start_year": 1965,
+    "end_year": null
+  },
+  {
+    "source": "iron-man",
+    "target": "captain-marvel",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "post-secret-wars",
+    "start_issue": "Avengers Annual #10 (1981)",
+    "end_issue": null,
+    "label": "Allies who went to war in Civil War II",
+    "summary": "Both recovering alcoholics, both Avengers leaders; Civil War II (2016) put them on opposite sides over predictive justice and ended with Tony in a coma.",
+    "events": [
+      {
+        "issue": "Civil War II #1–8 (2016)",
+        "year": 2016,
+        "note": "Carol's precog policing vs. Tony's objection; Tony nearly dies."
+      }
+    ],
+    "start_year": 1981,
+    "end_year": null
+  },
+  {
+    "source": "captain-marvel",
+    "target": "rogue",
+    "type": "enmity",
+    "continuity": "earth-616",
+    "era": "claremont",
+    "start_issue": "Avengers Annual #10 (1981)",
+    "end_issue": null,
+    "label": "She stole her life",
+    "summary": "Rogue permanently absorbed Carol's powers and memories in 1981; Carol spent years rebuilding herself as Binary. They have since been teammates, but the relationship is Rogue's original sin.",
+    "events": [
+      {
+        "issue": "Avengers Annual #10 (1981)",
+        "year": 1981,
+        "note": "Rogue drains Ms. Marvel on the Golden Gate Bridge."
+      },
+      {
+        "issue": "Uncanny X-Men #269 (1990)",
+        "year": 1990,
+        "note": "The Carol persona inside Rogue is separated from her."
+      },
+      {
+        "issue": "Captain Marvel vol. 10 #30 (2021)",
+        "year": 2021,
+        "note": "Working together; the history is acknowledged."
+      }
+    ],
+    "start_year": 1981,
+    "end_year": null
+  },
+  {
+    "source": "black-panther",
+    "target": "storm",
+    "type": "romance",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "Marvel Team-Up #100 (1980)",
+    "end_issue": "Avengers vs. X-Men #9 (2012)",
+    "label": "King and queen of Wakanda",
+    "summary": "Met as teenagers (retconned in 1980), married in Black Panther vol. 4 #18 (2006) in a wedding that was a Civil War event, annulled when Storm stood with the Phoenix Five against Wakanda in AvX.",
+    "events": [
+      {
+        "issue": "Marvel Team-Up #100 (1980)",
+        "year": 1980,
+        "note": "Their teenage meeting in Africa shown."
+      },
+      {
+        "issue": "Black Panther vol. 4 #18 (2006)",
+        "year": 2006,
+        "note": "Wedding."
+      },
+      {
+        "issue": "Avengers vs. X-Men #9 (2012)",
+        "year": 2012,
+        "note": "T'Challa annuls the marriage."
+      }
+    ],
+    "start_year": 1980,
+    "end_year": 2012
+  },
+  {
+    "source": "black-panther",
+    "target": "captain-america",
+    "type": "alliance",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Tales of Suspense #98 (1968)",
+    "end_issue": null,
+    "label": "Wartime friends",
+    "summary": "T'Challa's father fought beside Cap in the war (Flags of Our Fathers, 2010); T'Challa himself joined the Avengers at Cap's invitation and has been the team member most willing to tell Steve no.",
+    "events": [
+      {
+        "issue": "Avengers #52 (1968)",
+        "year": 1968,
+        "note": "T'Challa joins the Avengers."
+      }
+    ],
+    "start_year": 1968,
+    "end_year": null
+  },
+  {
+    "source": "hulk",
+    "target": "wolverine",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "claremont",
+    "start_issue": "Incredible Hulk #181 (1974)",
+    "end_issue": null,
+    "label": "Wolverine's first fight",
+    "summary": "Logan debuted fighting the Hulk and the two have been rematching since; Old Man Logan (2008) imagined a future where the Hulk's descendants killed Logan's family.",
+    "events": [
+      {
+        "issue": "Incredible Hulk #180–181 (1974)",
+        "year": 1974,
+        "note": "Wolverine's first appearance."
+      },
+      {
+        "issue": "Wolverine #66–72 (2008–09)",
+        "year": 2009,
+        "note": "Old Man Logan."
+      }
+    ],
+    "start_year": 1974,
+    "end_year": null
+  },
+  {
+    "source": "mister-fantastic",
+    "target": "invisible-woman",
+    "type": "romance",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Fantastic Four #1 (1961)",
+    "end_issue": null,
+    "label": "Marvel's first marriage",
+    "summary": "Engaged from the first issue, married in Fantastic Four Annual #3 (1965), parents of Franklin and Valeria. The marriage has survived Reed's neglect, Namor's attentions, Sue's turn as Malice and a Civil War separation; it is the model every other Marvel marriage is measured against.",
+    "events": [
+      {
+        "issue": "Fantastic Four Annual #3 (1965)",
+        "year": 1965,
+        "note": "The wedding, crashed by every villain in the book."
+      },
+      {
+        "issue": "Fantastic Four Annual #6 (1968)",
+        "year": 1968,
+        "note": "Franklin is born."
+      },
+      {
+        "issue": "Civil War #4 (2006)",
+        "year": 2006,
+        "note": "Sue leaves Reed over his support for registration."
+      }
+    ],
+    "start_year": 1961,
+    "end_year": null
+  },
+  {
+    "source": "mister-fantastic",
+    "target": "doctor-doom",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Fantastic Four #5 (1962)",
+    "end_issue": null,
+    "label": "College rivals, forever",
+    "summary": "Doom blames Reed for the lab accident that scarred his face; Reed knows it was Doom's own arrogance. Sixty years of the two smartest men alive refusing to concede. Doom briefly joined the Avengers (2015) and Reed rebuilt the multiverse after Secret Wars — with Doom's face healed, as a gift Doom never asked for.",
+    "events": [
+      {
+        "issue": "Fantastic Four #5 (1962)",
+        "year": 1962,
+        "note": "Doom debuts."
+      },
+      {
+        "issue": "Fantastic Four Annual #2 (1964)",
+        "year": 1964,
+        "note": "Origin: the accident at Empire State."
+      },
+      {
+        "issue": "Secret Wars #9 (2016)",
+        "year": 2016,
+        "note": "Reed takes Doom's power and heals his face."
+      }
+    ],
+    "start_year": 1962,
+    "end_year": null
+  },
+  {
+    "source": "invisible-woman",
+    "target": "doctor-doom",
+    "type": "alliance",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Fantastic Four #5 (1962)",
+    "end_issue": null,
+    "label": "The one person he's courteous to",
+    "summary": "Doom's respect for Sue is a running thread — he delivered Valeria (Fantastic Four vol. 3 #54, 2002) and named her — and Sue is the one FF member who has occasionally trusted him.",
+    "events": [
+      {
+        "issue": "Fantastic Four vol. 3 #54 (2002)",
+        "year": 2002,
+        "note": "Doom delivers Valeria and becomes her godfather."
+      }
+    ],
+    "start_year": 1962,
+    "end_year": null
+  },
+  {
+    "source": "invisible-woman",
+    "target": "namor",
+    "type": "romance",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Fantastic Four #4 (1962)",
+    "end_issue": null,
+    "label": "The suitor who never stopped",
+    "summary": "Namor has pursued Sue since his 1962 revival; she has been tempted exactly often enough to keep the thread alive. Marvel's longest-running unrequited romance.",
+    "events": [
+      {
+        "issue": "Fantastic Four #4 (1962)",
+        "year": 1962,
+        "note": "Namor revived; attracted to Sue immediately."
+      },
+      {
+        "issue": "Fantastic Four #27 (1964)",
+        "year": 1964,
+        "note": "Namor kidnaps Sue; Reed fights for her."
+      }
+    ],
+    "start_year": 1962,
+    "end_year": null
+  },
+  {
+    "source": "invisible-woman",
+    "target": "human-torch",
+    "type": "family",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Fantastic Four #1 (1961)",
+    "end_issue": null,
+    "label": "Big sister",
+    "summary": "Sue raised Johnny after their mother's death; she is the only authority he has ever accepted. His death in Fantastic Four #587 (2011) and return were written through her.",
+    "events": [
+      {
+        "issue": "Fantastic Four #587 (2011)",
+        "year": 2011,
+        "note": "Johnny dies in the Negative Zone."
+      },
+      {
+        "issue": "FF #11 / Fantastic Four #600 (2011)",
+        "year": 2011,
+        "note": "Johnny returns."
+      }
+    ],
+    "start_year": 1961,
+    "end_year": null
+  },
+  {
+    "source": "human-torch",
+    "target": "thing",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Fantastic Four #1 (1961)",
+    "end_issue": null,
+    "label": "Pranks and loyalty",
+    "summary": "Johnny's practical jokes on Ben are the FF's longest-running comedy and its best proof of family. Johnny's death left Ben the hole in his life the book had been setting up for fifty years.",
+    "events": [
+      {
+        "issue": "Fantastic Four #1 (1961)",
+        "year": 1961,
+        "note": "The first prank."
+      },
+      {
+        "issue": "Fantastic Four #587–588 (2011)",
+        "year": 2011,
+        "note": "Ben's grief after Johnny's death."
+      }
+    ],
+    "start_year": 1961,
+    "end_year": null
+  },
+  {
+    "source": "mister-fantastic",
+    "target": "thing",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Fantastic Four #1 (1961)",
+    "end_issue": null,
+    "label": "The friend he turned to stone",
+    "summary": "Reed's college roommate and pilot, who flew the rocket out of loyalty and paid for it. Ben's periodic rage at Reed, and his deeper refusal to leave him, is the Fantastic Four's emotional spine.",
+    "events": [
+      {
+        "issue": "Fantastic Four #1 (1961)",
+        "year": 1961,
+        "note": "The flight."
+      },
+      {
+        "issue": "Fantastic Four #51 (1966)",
+        "year": 1966,
+        "note": "'This Man, This Monster': a stranger's sacrifice restores Reed and Ben's bond."
+      }
+    ],
+    "start_year": 1961,
+    "end_year": null
+  },
+  {
+    "source": "thing",
+    "target": "silver-surfer",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Fantastic Four #55 (1966)",
+    "end_issue": null,
+    "label": "Jealousy to friendship",
+    "summary": "Ben's first encounter with the Surfer was a jealous brawl over Alicia Masters; it became one of the Surfer's few Earth friendships.",
+    "events": [
+      {
+        "issue": "Fantastic Four #55 (1966)",
+        "year": 1966,
+        "note": "Ben attacks the Surfer over Alicia."
+      },
+      {
+        "issue": "Silver Surfer vol. 3 #1 (1987)",
+        "year": 1987,
+        "note": "The Surfer, freed from exile, remains close to Ben and Alicia."
+      }
+    ],
+    "start_year": 1966,
+    "end_year": null
+  },
+  {
+    "source": "silver-surfer",
+    "target": "galactus",
+    "type": "mentorship",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Fantastic Four #48 (1966)",
+    "end_issue": null,
+    "label": "Herald and master",
+    "summary": "Norrin Radd offered himself as herald to spare his planet; Galactus took his memories so he could serve without conscience. The Surfer's rebellion on Earth and his exile are the Galactus Trilogy. Later a reconciliation, and later still a rescue.",
+    "events": [
+      {
+        "issue": "Fantastic Four #48–50 (1966)",
+        "year": 1966,
+        "note": "The Galactus Trilogy."
+      },
+      {
+        "issue": "Silver Surfer vol. 3 #1 (1987)",
+        "year": 1987,
+        "note": "Galactus lifts the exile."
+      }
+    ],
+    "start_year": 1966,
+    "end_year": null
+  },
+  {
+    "source": "spider-man",
+    "target": "human-torch",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "lee-ditko-romita",
+    "start_issue": "Amazing Spider-Man #1 (1963)",
+    "end_issue": null,
+    "label": "The rivalry that became family",
+    "summary": "Peter tried to join the FF for money in his first issue and fought Johnny repeatedly after; by the 1970s they were best friends, and Johnny's will named Peter his replacement on the team (FF #1, 2011).",
+    "events": [
+      {
+        "issue": "Amazing Spider-Man #1 (1963)",
+        "year": 1963,
+        "note": "Spider-Man crashes the Baxter Building."
+      },
+      {
+        "issue": "Strange Tales Annual #2 (1963)",
+        "year": 1963,
+        "note": "First Torch/Spider-Man team-up."
+      },
+      {
+        "issue": "FF #1 (2011)",
+        "year": 2011,
+        "note": "Peter joins the Future Foundation in Johnny's place."
+      }
+    ],
+    "start_year": 1963,
+    "end_year": null
+  },
+  {
+    "source": "spider-man",
+    "target": "mister-fantastic",
+    "type": "mentorship",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "Amazing Spider-Man #1 (1963)",
+    "end_issue": null,
+    "label": "The scientist who finally noticed him",
+    "summary": "Reed treated Peter as a nuisance for decades and as a peer after Civil War; Spider-Man's time with the Future Foundation was the first time a Marvel adult took Peter Parker's mind seriously.",
+    "events": [
+      {
+        "issue": "FF #1 (2011)",
+        "year": 2011,
+        "note": "Reed invites Peter into the Future Foundation."
+      }
+    ],
+    "start_year": 1963,
+    "end_year": null
+  },
+  {
+    "source": "namor",
+    "target": "captain-america",
+    "type": "alliance",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Avengers #4 (1964)",
+    "end_issue": null,
+    "label": "Invaders",
+    "summary": "Namor and Cap fought the war together as Invaders (retroactively, 1975) and it was Namor's tantrum that thawed Cap in Avengers #4. Allies who do not like each other.",
+    "events": [
+      {
+        "issue": "Avengers #4 (1964)",
+        "year": 1964,
+        "note": "Namor hurls Cap's frozen body into the current."
+      },
+      {
+        "issue": "Invaders #1 (1975)",
+        "year": 1975,
+        "note": "Wartime team-ups established."
+      }
+    ],
+    "start_year": 1964,
+    "end_year": null
+  },
+  {
+    "source": "namor",
+    "target": "doctor-doom",
+    "type": "alliance",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Fantastic Four #6 (1962)",
+    "end_issue": null,
+    "label": "Villains who keep teaming up",
+    "summary": "The FF's two great antagonists have allied against them every decade since 1962 and betrayed each other each time.",
+    "events": [
+      {
+        "issue": "Fantastic Four #6 (1962)",
+        "year": 1962,
+        "note": "Doom and Namor's first alliance."
+      },
+      {
+        "issue": "Secret Wars #1 (2015)",
+        "year": 2015,
+        "note": "Namor in Doom's Cabal."
+      }
+    ],
+    "start_year": 1962,
+    "end_year": null
+  },
+  {
+    "source": "doctor-doom",
+    "target": "thanos",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "hickman-secret-wars",
+    "start_issue": "Secret Wars #1 (2015)",
+    "end_issue": null,
+    "label": "Gods who don't share",
+    "summary": "Doom, as God Emperor of Battleworld, killed Thanos with a flick in Secret Wars #8 (2016) — the most casual death in a Thanos story.",
+    "events": [
+      {
+        "issue": "Secret Wars #8 (2016)",
+        "year": 2016,
+        "note": "Doom tears out Thanos's skeleton."
+      }
+    ],
+    "start_year": 2015,
+    "end_year": null
+  },
+  {
+    "source": "daredevil",
+    "target": "elektra",
+    "type": "romance",
+    "continuity": "earth-616",
+    "era": "bronze-age",
+    "start_issue": "Daredevil #168 (1981)",
+    "end_issue": null,
+    "label": "The love he can't save",
+    "summary": "College lovers; she became an assassin, he became a vigilante; she died in his arms in Daredevil #181 (1982). Her resurrection has never quite reunited them.",
+    "events": [
+      {
+        "issue": "Daredevil #168 (1981)",
+        "year": 1981,
+        "note": "Elektra debuts; the college romance revealed."
+      },
+      {
+        "issue": "Daredevil #181 (1982)",
+        "year": 1982,
+        "note": "Bullseye kills Elektra."
+      },
+      {
+        "issue": "Daredevil #190 (1983)",
+        "year": 1983,
+        "note": "Elektra resurrected and sent away."
+      }
+    ],
+    "start_year": 1981,
+    "end_year": null
+  },
+  {
+    "source": "daredevil",
+    "target": "kingpin",
+    "type": "enmity",
+    "continuity": "earth-616",
+    "era": "bronze-age",
+    "start_issue": "Daredevil #170 (1981)",
+    "end_issue": null,
+    "label": "Mutual destruction",
+    "summary": "Miller gave Daredevil the Kingpin and the two have been destroying each other's lives since: Fisk learned Matt's identity in Born Again (1986) and burned his life down; Matt has had him imprisoned, exiled and deposed as mayor.",
+    "events": [
+      {
+        "issue": "Daredevil #170 (1981)",
+        "year": 1981,
+        "note": "Kingpin enters the book."
+      },
+      {
+        "issue": "Daredevil #227–233 (1986)",
+        "year": 1986,
+        "note": "Born Again."
+      },
+      {
+        "issue": "Daredevil vol. 6 #36 (2022)",
+        "year": 2022,
+        "note": "Fisk's mayoralty ends in war with Daredevil."
+      }
+    ],
+    "start_year": 1981,
+    "end_year": null
+  },
+  {
+    "source": "spider-man",
+    "target": "kingpin",
+    "type": "enmity",
+    "continuity": "earth-616",
+    "era": "lee-ditko-romita",
+    "start_issue": "Amazing Spider-Man #50 (1967)",
+    "end_issue": null,
+    "label": "The villain Daredevil stole",
+    "summary": "Fisk was a Spider-Man villain for fourteen years before Miller moved him to Hell's Kitchen; the two books still fight over him. Fisk's shooting of Aunt May (Back in Black, 2007) brought him back into Peter's story.",
+    "events": [
+      {
+        "issue": "Amazing Spider-Man #50 (1967)",
+        "year": 1967,
+        "note": "Kingpin debuts."
+      },
+      {
+        "issue": "Amazing Spider-Man #542 (2007)",
+        "year": 2007,
+        "note": "Peter beats Fisk nearly to death in prison."
+      }
+    ],
+    "start_year": 1967,
+    "end_year": null
+  },
+  {
+    "source": "spider-man",
+    "target": "daredevil",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "bronze-age",
+    "start_issue": "Amazing Spider-Man #16 (1964)",
+    "end_issue": null,
+    "label": "Neighbours who know each other's names",
+    "summary": "The two New York street heroes have known each other's identities since the 1980s and act as each other's confessors; Matt has been Peter's lawyer.",
+    "events": [
+      {
+        "issue": "Amazing Spider-Man #16 (1964)",
+        "year": 1964,
+        "note": "First meeting."
+      },
+      {
+        "issue": "Daredevil vol. 2 #22 (2001)",
+        "year": 2001,
+        "note": "Mutual identities openly acknowledged."
+      }
+    ],
+    "start_year": 1964,
+    "end_year": null
+  },
+  {
+    "source": "daredevil",
+    "target": "punisher",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "bronze-age",
+    "start_issue": "Daredevil #183 (1982)",
+    "end_issue": null,
+    "label": "The argument nobody wins",
+    "summary": "Matt arrests, Frank kills; every meeting is the same argument. Garth Ennis's Punisher vol. 4 #3 (2000) — Frank tying Matt up with a gun — is the definitive version.",
+    "events": [
+      {
+        "issue": "Daredevil #183 (1982)",
+        "year": 1982,
+        "note": "First clash."
+      },
+      {
+        "issue": "Punisher vol. 4 #3 (2000)",
+        "year": 2000,
+        "note": "'The Choice'."
+      }
+    ],
+    "start_year": 1982,
+    "end_year": null
+  },
+  {
+    "source": "spider-man",
+    "target": "punisher",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "bronze-spider",
+    "start_issue": "Amazing Spider-Man #129 (1974)",
+    "end_issue": null,
+    "label": "Introduced to kill him",
+    "summary": "The Punisher debuted hired to kill Spider-Man, and their relationship has been Peter's refusal to accept Frank ever since.",
+    "events": [
+      {
+        "issue": "Amazing Spider-Man #129 (1974)",
+        "year": 1974,
+        "note": "Punisher debuts hunting Spider-Man."
+      }
+    ],
+    "start_year": 1974,
+    "end_year": null
+  },
+  {
+    "source": "jessica-jones",
+    "target": "luke-cage",
+    "type": "romance",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "Alias #1 (2001)",
+    "end_issue": null,
+    "label": "The most stable marriage at Marvel",
+    "summary": "Began as a one-night stand in Alias #1, became a pregnancy, a marriage (New Avengers Annual #1, 2006) and a daughter. Written consistently as two damaged adults who chose each other.",
+    "events": [
+      {
+        "issue": "Alias #1 (2001)",
+        "year": 2001,
+        "note": "They meet."
+      },
+      {
+        "issue": "New Avengers Annual #1 (2006)",
+        "year": 2006,
+        "note": "Wedding."
+      },
+      {
+        "issue": "Pulse #13 (2006)",
+        "year": 2006,
+        "note": "Danielle Cage is born."
+      }
+    ],
+    "start_year": 2001,
+    "end_year": null
+  },
+  {
+    "source": "luke-cage",
+    "target": "iron-man",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "New Avengers #1 (2005)",
+    "end_issue": null,
+    "label": "Registration's loudest objector",
+    "summary": "Luke refused to register in Civil War and led the underground New Avengers against Tony's side; he never fully forgave the Stark who sent Cape-Killers to his door.",
+    "events": [
+      {
+        "issue": "New Avengers #22 (2006)",
+        "year": 2006,
+        "note": "Luke refuses registration at midnight."
+      }
+    ],
+    "start_year": 2005,
+    "end_year": null
+  },
+  {
+    "source": "jessica-jones",
+    "target": "spider-man",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "Alias #22 (2003)",
+    "end_issue": null,
+    "label": "She sat behind him in high school",
+    "summary": "Alias retconned Jessica into Midtown High as the girl with a crush on Peter Parker; they became Avengers teammates decades later.",
+    "events": [
+      {
+        "issue": "Alias #22–23 (2003)",
+        "year": 2003,
+        "note": "Jessica's origin, with Peter in her class."
+      }
+    ],
+    "start_year": 2003,
+    "end_year": null
+  },
+  {
+    "source": "luke-cage",
+    "target": "captain-america",
+    "type": "mentorship",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "Avengers #1 (1963)",
+    "end_issue": null,
+    "label": "Cap handed him the team",
+    "summary": "Steve asked Luke to lead the New Avengers after Siege (2010); Luke's ambivalence about Cap's establishment and his loyalty to the man personally is the Heroic Age in one relationship.",
+    "events": [
+      {
+        "issue": "New Avengers vol. 2 #1 (2010)",
+        "year": 2010,
+        "note": "Luke leads the New Avengers at Cap's request."
+      }
+    ],
+    "start_year": 2005,
+    "end_year": null
+  },
+  {
+    "source": "doctor-strange",
+    "target": "hulk",
+    "type": "alliance",
+    "continuity": "earth-616",
+    "era": "bronze-age",
+    "start_issue": "Marvel Feature #1 (1971)",
+    "end_issue": null,
+    "label": "Defenders",
+    "summary": "Strange, Hulk and Namor as the original 'non-team'; the Hulk's exile by the Illuminati (with Strange a member) broke the trust.",
+    "events": [
+      {
+        "issue": "Marvel Feature #1 (1971)",
+        "year": 1971,
+        "note": "The Defenders form."
+      },
+      {
+        "issue": "World War Hulk #3 (2007)",
+        "year": 2007,
+        "note": "Hulk breaks Strange's hands."
+      }
+    ],
+    "start_year": 1971,
+    "end_year": null
+  },
+  {
+    "source": "doctor-strange",
+    "target": "namor",
+    "type": "alliance",
+    "continuity": "earth-616",
+    "era": "bronze-age",
+    "start_issue": "Marvel Feature #1 (1971)",
+    "end_issue": null,
+    "label": "Defenders and Illuminati",
+    "summary": "Allies in two secret societies; Namor's walkout from the Illuminati over the Hulk, and his return to it for the incursions, map the character's whole relationship with the surface.",
+    "events": [
+      {
+        "issue": "Marvel Feature #1 (1971)",
+        "year": 1971,
+        "note": "Defenders."
+      },
+      {
+        "issue": "New Avengers: Illuminati #1 (2006)",
+        "year": 2006,
+        "note": "The Illuminati revealed."
+      }
+    ],
+    "start_year": 1971,
+    "end_year": null
+  },
+  {
+    "source": "doctor-strange",
+    "target": "iron-man",
+    "type": "alliance",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "New Avengers: Illuminati (2006)",
+    "end_issue": null,
+    "label": "Illuminati",
+    "summary": "Strange and Stark, with Reed, Xavier, Namor and Black Bolt, ran the universe in secret; Strange was the member most troubled by it.",
+    "events": [
+      {
+        "issue": "New Avengers: Illuminati #1 (2006)",
+        "year": 2006,
+        "note": "The Illuminati revealed."
+      },
+      {
+        "issue": "New Avengers vol. 3 #3 (2013)",
+        "year": 2013,
+        "note": "Strange rejoins for the incursions."
+      }
+    ],
+    "start_year": 2006,
+    "end_year": null
+  },
+  {
+    "source": "charles-xavier",
+    "target": "mister-fantastic",
+    "type": "alliance",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "Fantastic Four #28 (1964)",
+    "end_issue": null,
+    "label": "Illuminati",
+    "summary": "Two of Marvel's great patriarchs, both in the Illuminati, both guilty of the same sin of deciding for everyone.",
+    "events": [
+      {
+        "issue": "Fantastic Four #28 (1964)",
+        "year": 1964,
+        "note": "First X-Men/FF crossover."
+      },
+      {
+        "issue": "New Avengers: Illuminati #1 (2006)",
+        "year": 2006,
+        "note": "Both members."
+      }
+    ],
+    "start_year": 1964,
+    "end_year": null
+  },
+  {
+    "source": "cyclops",
+    "target": "cable",
+    "type": "family",
+    "continuity": "earth-616",
+    "era": "nineties",
+    "start_issue": "X-Force #1 (1991)",
+    "end_issue": null,
+    "label": "Father to a man older than himself",
+    "summary": "Cable is Scott's son by Madelyne Pryor, sent to the future as an infant to survive a techno-organic virus and returned as a grizzled soldier. Scott's guilt and Nathan's distance thawed in the Askani'son stories and froze again on Krakoa, where a teenage Cable displaced the older one.",
+    "events": [
+      {
+        "issue": "X-Factor #68 (1991)",
+        "year": 1991,
+        "note": "Baby Nathan sent to the future."
+      },
+      {
+        "issue": "X-Men #30 (1994)",
+        "year": 1994,
+        "note": "Cable attends Scott and Jean's wedding."
+      },
+      {
+        "issue": "Adventures of Cyclops and Phoenix #1–4 (1994)",
+        "year": 1994,
+        "note": "Scott and Jean raise Nathan in the future."
+      }
+    ],
+    "start_year": 1991,
+    "end_year": null
+  },
+  {
+    "source": "jean-grey",
+    "target": "cable",
+    "type": "family",
+    "continuity": "earth-616",
+    "era": "nineties",
+    "start_issue": "Adventures of Cyclops and Phoenix #1 (1994)",
+    "end_issue": null,
+    "label": "The stepmother who raised him",
+    "summary": "Jean is not Cable's biological mother (that was her clone Madelyne) but she and Scott raised him for twelve years in the future.",
+    "events": [
+      {
+        "issue": "Adventures of Cyclops and Phoenix #1–4 (1994)",
+        "year": 1994,
+        "note": "Raising Nathan as 'Redd' and 'Slym'."
+      }
+    ],
+    "start_year": 1994,
+    "end_year": null
+  },
+  {
+    "source": "cable",
+    "target": "deadpool",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "morrison-whedon",
+    "start_issue": "New Mutants #98 (1991)",
+    "end_issue": null,
+    "label": "The odd couple",
+    "summary": "Deadpool debuted as a mercenary hired against Cable; Cable & Deadpool (2004–08) made them Marvel's definitive mismatched partners — the soldier with a plan and the lunatic who ruins it.",
+    "events": [
+      {
+        "issue": "New Mutants #98 (1991)",
+        "year": 1991,
+        "note": "Deadpool's first appearance."
+      },
+      {
+        "issue": "Cable & Deadpool #1 (2004)",
+        "year": 2004,
+        "note": "Teleport-bonded together."
+      },
+      {
+        "issue": "Cable & Deadpool #50 (2008)",
+        "year": 2008,
+        "note": "Series ends with the partnership intact."
+      }
+    ],
+    "start_year": 1991,
+    "end_year": null
+  },
+  {
+    "source": "wolverine",
+    "target": "deadpool",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "nineties",
+    "start_issue": "Wolverine #88 (1994)",
+    "end_issue": null,
+    "label": "He wants to be friends; Logan doesn't",
+    "summary": "Deadpool's one-sided fixation on Wolverine as a peer (both Weapon X, both healing factors) and Logan's contempt is a thirty-year joke that occasionally turns serious.",
+    "events": [
+      {
+        "issue": "Wolverine #88 (1994)",
+        "year": 1994,
+        "note": "First fight."
+      },
+      {
+        "issue": "Wolverine: Origins #21–25 (2008)",
+        "year": 2008,
+        "note": "Deadpool hired to kill Wolverine."
+      }
+    ],
+    "start_year": 1994,
+    "end_year": null
+  },
+  {
+    "source": "spider-man",
+    "target": "deadpool",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "post-secret-wars",
+    "start_issue": "Deadpool Annual #1 (2014)",
+    "end_issue": null,
+    "label": "Reluctant best friends",
+    "summary": "Spider-Man/Deadpool (2016–19) wrote Wade's hero-worship of Peter as the thing that might make him better, and Peter's refusal to indulge it as the thing that might not.",
+    "events": [
+      {
+        "issue": "Spider-Man/Deadpool #1 (2016)",
+        "year": 2016,
+        "note": "Series begins."
+      }
+    ],
+    "start_year": 2014,
+    "end_year": null
+  },
+  {
+    "source": "magneto",
+    "target": "apocalypse",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "nineties",
+    "start_issue": "X-Men #1 (1991)",
+    "end_issue": null,
+    "label": "Two philosophies of mutant supremacy",
+    "summary": "Apocalypse's survival-of-the-fittest and Magneto's protectionism are opposed readings of the same premise; in the Age of Apocalypse, Magneto leads the resistance against him. On Krakoa they sat on the same council.",
+    "events": [
+      {
+        "issue": "X-Men: Alpha (1995)",
+        "year": 1995,
+        "note": "Age of Apocalypse: Magneto's X-Men vs. Apocalypse."
+      },
+      {
+        "issue": "House of X #6 (2019)",
+        "year": 2019,
+        "note": "Both seated on the Quiet Council."
+      }
+    ],
+    "start_year": 1991,
+    "end_year": null
+  },
+  {
+    "source": "charles-xavier",
+    "target": "apocalypse",
+    "type": "enmity",
+    "continuity": "earth-616",
+    "era": "nineties",
+    "start_issue": "X-Factor #5 (1986)",
+    "end_issue": null,
+    "label": "The dream vs. the strong",
+    "summary": "Apocalypse is the only major villain whose vision is a direct refutation of Xavier's; in the Age of Apocalypse, Xavier's death is what lets him win. Krakoa put them in the same room.",
+    "events": [
+      {
+        "issue": "Legion Quest / X-Men #41 (1995)",
+        "year": 1995,
+        "note": "Xavier's death creates the Age of Apocalypse."
+      },
+      {
+        "issue": "House of X #6 (2019)",
+        "year": 2019,
+        "note": "Apocalypse on Xavier's council."
+      }
+    ],
+    "start_year": 1986,
+    "end_year": null
+  },
+  {
+    "source": "wolverine",
+    "target": "jubilee",
+    "type": "mentorship",
+    "continuity": "earth-616",
+    "era": "claremont",
+    "start_issue": "Uncanny X-Men #251 (1989)",
+    "end_issue": null,
+    "label": "The second protégée",
+    "summary": "Jubilee pulled Logan off a crucifix in the Australian outback and followed him for years; she is the Claremont-era successor to Kitty in his life, and later the one who, as a vampire, he refused to give up on.",
+    "events": [
+      {
+        "issue": "Uncanny X-Men #251 (1989)",
+        "year": 1989,
+        "note": "Jubilee rescues the crucified Wolverine."
+      },
+      {
+        "issue": "Wolverine and Jubilee #1–4 (2011)",
+        "year": 2011,
+        "note": "Logan helps the vampire Jubilee."
+      }
+    ],
+    "start_year": 1989,
+    "end_year": null
+  },
+  {
+    "source": "wolverine",
+    "target": "x-23",
+    "type": "family",
+    "continuity": "earth-616",
+    "era": "morrison-whedon",
+    "start_issue": "X-23 #1 (2005)",
+    "end_issue": null,
+    "label": "The clone he raised as a daughter",
+    "summary": "Laura was made from Logan's DNA and trained as a weapon; he took her in (New X-Men, 2006), she took his name after his death. Written explicitly as father and daughter, by both.",
+    "events": [
+      {
+        "issue": "X-23: Innocence Lost #1 (2005)",
+        "year": 2005,
+        "note": "Laura's origin."
+      },
+      {
+        "issue": "Wolverine vol. 3 #60 (2007)",
+        "year": 2007,
+        "note": "'You're my daughter'."
+      },
+      {
+        "issue": "All-New Wolverine #1 (2015)",
+        "year": 2015,
+        "note": "Laura becomes Wolverine."
+      }
+    ],
+    "start_year": 2005,
+    "end_year": null
+  },
+  {
+    "source": "kitty-pryde",
+    "target": "jubilee",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "nineties",
+    "start_issue": "Uncanny X-Men #251 (1989)",
+    "end_issue": null,
+    "label": "Logan's two kids",
+    "summary": "Kitty and Jubilee are the two teenagers Wolverine raised, a generation apart; they compare notes.",
+    "events": [
+      {
+        "issue": "Generation X #1 (1994)",
+        "year": 1994,
+        "note": "Jubilee in the role Kitty once had, with Kitty in Excalibur."
+      }
+    ],
+    "start_year": 1989,
+    "end_year": null
+  },
+  {
+    "source": "x-23",
+    "target": "jean-grey",
+    "type": "mentorship",
+    "continuity": "earth-616",
+    "era": "bendis-gold",
+    "start_issue": "All-New X-Men #20 (2014)",
+    "end_issue": null,
+    "label": "The time-displaced Jean and the clone",
+    "summary": "The young, displaced Jean Grey was the first X-Man to treat Laura as a person rather than a weapon.",
+    "events": [
+      {
+        "issue": "All-New X-Men #20 (2014)",
+        "year": 2014,
+        "note": "Laura joins the time-displaced X-Men."
+      }
+    ],
+    "start_year": 2014,
+    "end_year": null
+  },
+  {
+    "source": "storm",
+    "target": "black-panther",
+    "type": "alliance",
+    "continuity": "earth-616",
+    "era": "krakoa",
+    "start_issue": "Avengers vs. X-Men #9 (2012)",
+    "end_issue": null,
+    "label": "Former spouses, heads of state",
+    "summary": "After the annulment, as Regent of Arakko and King of Wakanda, they deal with each other as sovereigns.",
+    "events": [
+      {
+        "issue": "X-Men Red vol. 2 #1 (2022)",
+        "year": 2022,
+        "note": "Storm rules Arakko on Mars."
+      }
+    ],
+    "start_year": 2012,
+    "end_year": null
+  },
+  {
+    "source": "thanos",
+    "target": "galactus",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "late-modern",
+    "start_issue": "Thanos #3 (2004)",
+    "end_issue": null,
+    "label": "Two cosmic scales",
+    "summary": "Thanos has fought and manipulated Galactus repeatedly (Infinity Gauntlet, Thanos vol. 1); neither regards the other as a peer.",
+    "events": [
+      {
+        "issue": "Infinity Gauntlet #4 (1991)",
+        "year": 1991,
+        "note": "Galactus among the cosmic beings Thanos defeats."
+      },
+      {
+        "issue": "Thanos #1–6 (2003–04)",
+        "year": 2004,
+        "note": "Thanos helps Galactus against Hunger."
+      }
+    ],
+    "start_year": 1991,
+    "end_year": null
+  },
+  {
+    "source": "thanos",
+    "target": "captain-marvel",
+    "type": "enmity",
+    "continuity": "earth-616",
+    "era": "late-modern",
+    "start_issue": "Infinity Gauntlet #1 (1991)",
+    "end_issue": null,
+    "label": "Infinity-era enemies",
+    "summary": "Carol has fought Thanos in every Infinity-scale crossover since 1991 and in Infinity Wars (2018).",
+    "events": [
+      {
+        "issue": "Infinity Gauntlet #1 (1991)",
+        "year": 1991,
+        "note": "Thanos erases half the universe; Carol among the survivors."
+      },
+      {
+        "issue": "Infinity Wars #1 (2018)",
+        "year": 2018,
+        "note": "Thanos's death at Gamora's hands."
+      }
+    ],
+    "start_year": 1991,
+    "end_year": null
+  },
+  {
+    "source": "iron-man",
+    "target": "doctor-doom",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "post-secret-wars",
+    "start_issue": "Iron Man #149 (1981)",
+    "end_issue": null,
+    "label": "Doom in the armour",
+    "summary": "Doom's Camelot team-up with Tony (1981) became, in Infamous Iron Man (2016–17), Doom taking up Iron Man's identity while Tony was comatose — a rivalry that curdled into stewardship.",
+    "events": [
+      {
+        "issue": "Iron Man #149–150 (1981)",
+        "year": 1981,
+        "note": "Doomquest: Doom and Stark stranded in Camelot."
+      },
+      {
+        "issue": "Infamous Iron Man #1 (2016)",
+        "year": 2016,
+        "note": "Doom becomes Iron Man."
+      }
+    ],
+    "start_year": 1981,
+    "end_year": null
+  },
+  {
+    "source": "beast",
+    "target": "wasp",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "bronze-age",
+    "start_issue": "Avengers #137 (1975)",
+    "end_issue": null,
+    "label": "Avengers together",
+    "summary": "Hank McCoy's Avengers years (1975–79) were the loosest, happiest version of the character, and Jan was his closest friend on the team.",
+    "events": [
+      {
+        "issue": "Avengers #137 (1975)",
+        "year": 1975,
+        "note": "Beast joins the Avengers."
+      }
+    ],
+    "start_year": 1975,
+    "end_year": null
+  },
+  {
+    "source": "wolverine",
+    "target": "captain-america",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "Uncanny X-Men #268 (1990)",
+    "end_issue": null,
+    "label": "Wartime comrades, Avengers teammates",
+    "summary": "They fought together in 1941 (Uncanny X-Men #268); Cap sponsored Logan's Avengers membership in 2005 and asked him to run the X-Men's school in Schism.",
+    "events": [
+      {
+        "issue": "Uncanny X-Men #268 (1990)",
+        "year": 1990,
+        "note": "Cap, Logan and the Black Widow in 1941 Madripoor."
+      },
+      {
+        "issue": "New Avengers #6 (2005)",
+        "year": 2005,
+        "note": "Cap recruits Wolverine to the Avengers."
+      }
+    ],
+    "start_year": 1990,
+    "end_year": null
+  },
+  {
+    "source": "hulk",
+    "target": "thing",
+    "type": "rivalry",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Fantastic Four #12 (1962)",
+    "end_issue": null,
+    "label": "The other strength contest",
+    "summary": "Marvel's first hero-vs-hero fight; it recurs every decade and ends in a draw every time, by editorial law.",
+    "events": [
+      {
+        "issue": "Fantastic Four #12 (1962)",
+        "year": 1962,
+        "note": "The first fight."
+      },
+      {
+        "issue": "Fantastic Four #25–26 (1964)",
+        "year": 1964,
+        "note": "The rematch, with the Avengers."
+      }
+    ],
+    "start_year": 1962,
+    "end_year": null
+  },
+  {
+    "source": "spider-man",
+    "target": "iron-man",
+    "type": "mentorship",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "Amazing Spider-Man #529 (2006)",
+    "end_issue": "Civil War #5 (2006)",
+    "label": "The Iron Spider",
+    "summary": "Tony made Peter a suit and a protégé before Civil War and lost him when Peter unmasked for registration and then defected; the betrayal ran both ways.",
+    "events": [
+      {
+        "issue": "Amazing Spider-Man #529 (2006)",
+        "year": 2006,
+        "note": "The Iron Spider armour."
+      },
+      {
+        "issue": "Civil War #2 (2006)",
+        "year": 2006,
+        "note": "Peter unmasks on television."
+      },
+      {
+        "issue": "Civil War #5 (2006)",
+        "year": 2006,
+        "note": "Peter switches sides."
+      }
+    ],
+    "start_year": 2006,
+    "end_year": 2006
+  },
+  {
+    "source": "spider-man",
+    "target": "captain-america",
+    "type": "mentorship",
+    "continuity": "earth-616",
+    "era": "bendis-avengers",
+    "start_issue": "Amazing Spider-Man #1 (1963)",
+    "end_issue": null,
+    "label": "The hero he wanted to be",
+    "summary": "Peter's decision to follow Cap in Civil War was written as a son choosing a father; Steve's 'plant yourself like a tree' speech in Amazing Spider-Man #537 (2007) is the relationship's thesis.",
+    "events": [
+      {
+        "issue": "Amazing Spider-Man #537 (2007)",
+        "year": 2007,
+        "note": "Cap's speech to Peter about standing your ground."
+      }
+    ],
+    "start_year": 1963,
+    "end_year": null
+  },
+  {
+    "source": "thor",
+    "target": "captain-america",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Avengers #4 (1964)",
+    "end_issue": null,
+    "label": "The god who respects him",
+    "summary": "Thor regards Steve as the one mortal whose worthiness is not in question; Cap has lifted Mjolnir (Thor #390, 1988; Fear Itself, 2011).",
+    "events": [
+      {
+        "issue": "Thor #390 (1988)",
+        "year": 1988,
+        "note": "Cap lifts Mjolnir."
+      },
+      {
+        "issue": "Fear Itself #7 (2011)",
+        "year": 2011,
+        "note": "Cap wields the hammer against the Serpent."
+      }
+    ],
+    "start_year": 1964,
+    "end_year": null
+  },
+  {
+    "source": "wasp",
+    "target": "captain-america",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "bronze-age",
+    "start_issue": "Avengers #4 (1964)",
+    "end_issue": null,
+    "label": "Chairwoman and soldier",
+    "summary": "Jan was the Avengers' chairwoman through the Bronze Age with Cap as her field commander; a working relationship written with real affection.",
+    "events": [
+      {
+        "issue": "Avengers #217 (1982)",
+        "year": 1982,
+        "note": "Jan becomes chairwoman."
+      }
+    ],
+    "start_year": 1964,
+    "end_year": null
+  },
+  {
+    "source": "hawkeye",
+    "target": "scarlet-witch",
+    "type": "friendship",
+    "continuity": "earth-616",
+    "era": "marvel-age",
+    "start_issue": "Avengers #16 (1965)",
+    "end_issue": null,
+    "label": "Cap's kooky quartet",
+    "summary": "The three ex-villains Cap took in in 1965 — Clint, Wanda, Pietro — were a unit; Clint's loyalty to Wanda survived Disassembled, in which she killed him.",
+    "events": [
+      {
+        "issue": "Avengers #16 (1965)",
+        "year": 1965,
+        "note": "'Cap's Kooky Quartet'."
+      },
+      {
+        "issue": "Avengers #502 (2004)",
+        "year": 2004,
+        "note": "Wanda's breakdown kills Hawkeye."
+      },
+      {
+        "issue": "House of M #8 (2005)",
+        "year": 2005,
+        "note": "Clint restored."
+      }
+    ],
+    "start_year": 1965,
+    "end_year": null
+  },
+  {
+    "source": "jean-grey",
+    "target": "wolverine",
+    "type": "romance",
+    "continuity": "earth-1610",
+    "era": "jms-bnd",
+    "start_issue": "Ultimate X-Men #26 (2003)",
+    "end_issue": "Ultimate X-Men #27 (2003)",
+    "label": "Ultimate: briefly consummated",
+    "summary": "In the Ultimate universe, Jean actually left Scott for Logan — the thing the 616 version never allows.",
+    "events": [
+      {
+        "issue": "Ultimate X-Men #26 (2003)",
+        "year": 2003,
+        "note": "Jean and Logan."
+      }
+    ],
+    "start_year": 2003,
+    "end_year": 2003
+  },
+  {
+    "source": "mister-fantastic",
+    "target": "doctor-doom",
+    "type": "rivalry",
+    "continuity": "earth-1610",
+    "era": "jms-bnd",
+    "start_issue": "Ultimate Fantastic Four #7 (2004)",
+    "end_issue": "Ultimatum #5 (2009)",
+    "label": "Ultimate: Reed became the villain",
+    "summary": "The Ultimate universe inverted the pairing: Reed Richards became the Maker, a genocidal super-scientist, and Doom was killed by Ben Grimm.",
+    "events": [
+      {
+        "issue": "Ultimate Fantastic Four #7 (2004)",
+        "year": 2004,
+        "note": "Ultimate Doom debuts."
+      },
+      {
+        "issue": "Ultimatum #5 (2009)",
+        "year": 2009,
+        "note": "Ben Grimm kills Doom."
+      },
+      {
+        "issue": "Ultimate Comics: Ultimates #18 (2012)",
+        "year": 2012,
+        "note": "Reed as the Maker."
+      }
+    ],
+    "start_year": 2004,
+    "end_year": 2009
   }
 ]

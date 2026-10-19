@@ -22,6 +22,7 @@ def main():
     (OUT / "characters.json").write_text(json.dumps(chars, ensure_ascii=False))
     (OUT / "continuities.json").write_text(json.dumps(c.get("/api/continuities").json(), ensure_ascii=False))
     (OUT / "eras.json").write_text(json.dumps(c.get("/api/eras").json(), ensure_ascii=False))
+    (OUT / "teams.json").write_text(json.dumps(c.get("/api/teams").json(), ensure_ascii=False))
     (OUT / "relationships.json").write_text(json.dumps(c.get("/api/relationships").json(), ensure_ascii=False))
     detail_dir = OUT / "characters"
     detail_dir.mkdir(exist_ok=True)

@@ -30,6 +30,7 @@ def main():
                 source_id=r["source"], target_id=r["target"], type=r["type"],
                 continuity_id=r["continuity"], era_id=r.get("era"), label=r.get("label"),
                 summary=r.get("summary"), start_issue=r.get("start_issue"), end_issue=r.get("end_issue"),
+                start_year=r.get("start_year"), end_year=r.get("end_year"),
             )
             rel.events = [models.RelationshipEvent(**e) for e in events]
             db.add(rel)

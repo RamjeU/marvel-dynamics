@@ -29,7 +29,8 @@ CREATE TABLE characters (
     bio              TEXT,
     marvel_api_id    INTEGER,            -- optional, filled by ingest/marvel_api.py
     comicvine_id     INTEGER,            -- optional, filled by ingest/comicvine.py
-    image_url        TEXT                -- optional external URL (Marvel API thumbnail, with attribution)
+    image_url        TEXT,               -- optional external URL (Marvel API thumbnail, with attribution)
+    affiliations     TEXT                -- JSON array of team names: ['X-Men', 'Avengers']
 );
 
 -- One row per (pair, continuity, type). The same two characters can have
@@ -45,6 +46,8 @@ CREATE TABLE relationships (
     summary        TEXT,                 -- the curated prose
     start_issue    TEXT,
     end_issue      TEXT,                 -- NULL = ongoing
+    start_year     INTEGER,              -- for the year scrubber; derived from first event if absent
+    end_year       INTEGER,              -- NULL = ongoing
     CHECK (source_id <> target_id)
 );
 CREATE INDEX ix_rel_source ON relationships(source_id);

@@ -14,35 +14,38 @@ async function getJSON(url) {
 let staticCache = null
 async function loadStatic() {
   if (!staticCache) {
-    const [characters, continuities, eras, relationships] = await Promise.all([
+    const [characters, continuities, eras, teams, relationships] = await Promise.all([
       getJSON(`${BASE}data/characters.json`),
       getJSON(`${BASE}data/continuities.json`),
       getJSON(`${BASE}data/eras.json`),
+      getJSON(`${BASE}data/teams.json`),
       getJSON(`${BASE}data/relationships.json`),
     ])
-    staticCache = { characters, continuities, eras, relationships }
+    staticCache = { characters, continuities, eras, teams, relationships }
   }
   return staticCache
 }
 
-function filterRels(rels, { continuity, era, type }) {
+function filterRels(rels, { continuity, era, type, year, team }) {
   return rels.filter(r =>
     (!continuity || continuity === 'all' || r.continuity.id === continuity) &&
     (!era || r.era?.id === era) &&
-    (!type || r.type === type))
+    (!type || r.type === type) &&
+    (year == null || (r.start_year != null && r.start_year <= year && (r.end_year == null || r.end_year >= year))) &&
+    (!team || (r.source.affiliations || []).includes(team) || (r.target.affiliations || []).includes(team)))
 }
 
 function buildGraph(rels) {
   const nodes = new Map()
   for (const r of rels) {
     for (const c of [r.source, r.target]) {
-      if (!nodes.has(c.id)) nodes.set(c.id, { id: c.id, name: c.name, color: c.color, emblem: c.emblem, degree: 0 })
+      if (!nodes.has(c.id)) nodes.set(c.id, { id: c.id, name: c.name, color: c.color, emblem: c.emblem, affiliations: c.affiliations, degree: 0 })
       nodes.get(c.id).degree++
     }
   }
   return {
     nodes: [...nodes.values()],
-    links: rels.map(r => ({ id: r.id, source: r.source.id, target: r.target.id, type: r.type, label: r.label, continuity: r.continuity.id, era: r.era?.id })),
+    links: rels.map(r => ({ id: r.id, source: r.source.id, target: r.target.id, type: r.type, label: r.label, continuity: r.continuity.id, era: r.era?.id, start_year: r.start_year, end_year: r.end_year })),
   }
 }
 
@@ -80,11 +83,12 @@ function bfsPath(rels, start, goal) {
 export const api = {
   async meta() {
     if (API) {
-      const [continuities, eras] = await Promise.all([getJSON(`${API}/api/continuities`), getJSON(`${API}/api/eras`)])
-      return { continuities, eras }
+      const [continuities, eras, teams] = await Promise.all([
+        getJSON(`${API}/api/continuities`), getJSON(`${API}/api/eras`), getJSON(`${API}/api/teams`)])
+      return { continuities, eras, teams }
     }
     const s = await loadStatic()
-    return { continuities: s.continuities, eras: s.eras }
+    return { continuities: s.continuities, eras: s.eras, teams: s.teams }
   },
   async characters() {
     if (API) return getJSON(`${API}/api/characters`)
@@ -97,7 +101,7 @@ export const api = {
   async graph(filters) {
     if (API) {
       const p = new URLSearchParams()
-      for (const [k, v] of Object.entries(filters)) if (v) p.set(k, v)
+      for (const [k, v] of Object.entries(filters)) if (v != null && v !== '') p.set(k, v)
       return getJSON(`${API}/api/graph?${p}`)
     }
     return buildGraph(filterRels((await loadStatic()).relationships, filters))

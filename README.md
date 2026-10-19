@@ -11,6 +11,15 @@ The schema is built so both can be stored, queried and drawn.
 
 **Everything in this project runs on free tiers only.** No paid service is required at any step.
 
+## Features
+
+- Force-directed relationship graph with hover isolation and path highlighting
+- **Year scrubber**: drag to any year since 1939 and see only the relationships that existed then
+- Filters by continuity, era, team affiliation and relationship type
+- Degrees-of-separation finder (BFS shortest path) between any two characters
+- Character panels with bios, team chips, and per-relationship timelines citing the issue for every turning point
+- Runs with no backend at all (static JSON) or against the FastAPI service
+
 ## What's here
 
 | Layer | Choice | Why |
@@ -23,8 +32,10 @@ The schema is built so both can be stored, queried and drawn.
 | Images | Generated emblems (colour + glyph), optional links to Marvel API thumbnails | The repo ships **no copyrighted art**. See "Images" below |
 | Data sources | Hand-curated seed + optional enrichment from the Marvel Comics API and Comic Vine (both free, non-commercial) | |
 
-Starting slice: the **X-Men cluster, Earth-616**, 18 characters and 26 relationships with 74 sourced
-turning points. Expanding is a data problem, not an architecture problem.
+Current data: **65 characters, 123 relationships, 271 sourced turning points** across the X-Men,
+Spider-Man, Avengers, Fantastic Four, street-level and cosmic clusters, plus Earth-295, Earth-1610 and
+Earth-811 contrasts. Every Earth-616 character is reachable from every other (there is a test for it).
+Expanding is a data problem, not an architecture problem.
 
 ## Run it locally
 
@@ -33,7 +44,7 @@ make setup      # python venv + npm install
 make seed       # loads backend/seed/*.json into backend/marvel.db
 make api        # http://localhost:8000  (interactive docs at /docs)
 make web        # http://localhost:5173  (in a second terminal)
-make test       # 7 backend tests
+make test       # 11 backend tests
 ```
 
 Without `make`:
@@ -74,7 +85,8 @@ tiers and Neon/Supabase have free Postgres; set `DATABASE_URL` and `CORS_ORIGINS
 | `GET /api/characters/{id}?continuity=` | character with all relationships and turning points |
 | `GET /api/relationships?continuity=&era=&type=` | relationship list |
 | `GET /api/continuities`, `GET /api/eras` | reference tables |
-| `GET /api/graph?continuity=earth-616&era=&type=` | `{nodes, links}` for the force graph (`continuity=all` for every universe) |
+| `GET /api/graph?continuity=earth-616&era=&type=&team=&year=` | `{nodes, links}` for the force graph (`continuity=all` for every universe; `year=1985` shows only relationships active that year; `team=Avengers` restricts to one affiliation) |
+| `GET /api/teams` | affiliations with member counts |
 | `GET /api/path?source=destiny&target=havok&continuity=` | shortest chain of relationships (BFS) |
 
 ## Data model
@@ -113,7 +125,6 @@ line Marvel's terms require ("Data provided by Marvel. © 2014 Marvel").
 ## Roadmap
 
 - Expand Earth-616 beyond the X-Men: Spider-Man family, Avengers, Fantastic Four
-- Era-aware graph: scrub a timeline and watch edges appear and change
 - Contribution flow: a form that opens a pull request against the seed files
 - Co-appearance mining from Comic Vine issue credits to suggest missing edges
 

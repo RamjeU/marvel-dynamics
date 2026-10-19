@@ -31,7 +31,7 @@ function RelationshipCard({ rel, selfId, onSelect }) {
   )
 }
 
-export default function CharacterPanel({ character, continuity, onSelect }) {
+export default function CharacterPanel({ character, continuity, onSelect, onTeam }) {
   if (!character) return null
   const rels = character.relationships.filter(r => !continuity || continuity === 'all' || r.continuity.id === continuity)
   return (
@@ -48,8 +48,20 @@ export default function CharacterPanel({ character, continuity, onSelect }) {
         {character.creators?.length > 0 && <div><b>Created by</b> · {character.creators.join(', ')}</div>}
         {character.aliases?.length > 0 && <div><b>Also</b> · {character.aliases.join(' · ')}</div>}
       </div>
+      {character.affiliations?.length > 0 && (
+        <div className="teams">
+          {character.affiliations.map(t => <button key={t} className="chip" onClick={() => onTeam?.(t)}>{t}</button>)}
+        </div>
+      )}
       <p className="bio">{character.bio}</p>
       <div className="section-title">Relationships ({rels.length})</div>
+      {rels.length > 0 && (
+        <div className="type-row">
+          {Object.entries(rels.reduce((a, r) => (a[r.type] = (a[r.type] || 0) + 1, a), {})).map(([t, n]) => (
+            <span key={t} style={{ color: REL_COLORS[t] }}>{n} {t}</span>
+          ))}
+        </div>
+      )}
       {rels.length === 0 && <div className="empty">No relationships recorded in this continuity yet.</div>}
       {rels.map(r => <RelationshipCard key={r.id} rel={r} selfId={character.id} onSelect={onSelect} />)}
     </div>

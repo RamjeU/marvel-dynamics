@@ -3,14 +3,15 @@ from __future__ import annotations
 
 from collections import defaultdict, deque
 
-from sqlalchemy import select
+from sqlalchemy import or_, select
 from sqlalchemy.orm import Session, selectinload
 
 from . import models, schemas
 
 
 def load_relationships(db: Session, continuity: str | None = None, era: str | None = None,
-                       rel_type: str | None = None) -> list[models.Relationship]:
+                       rel_type: str | None = None, year: int | None = None,
+                       team: str | None = None) -> list[models.Relationship]:
     q = select(models.Relationship).options(
         selectinload(models.Relationship.source), selectinload(models.Relationship.target)
     )
@@ -20,13 +21,19 @@ def load_relationships(db: Session, continuity: str | None = None, era: str | No
         q = q.where(models.Relationship.era_id == era)
     if rel_type:
         q = q.where(models.Relationship.type == rel_type)
-    return list(db.scalars(q))
+    if year is not None:
+        q = q.where(models.Relationship.start_year <= year).where(
+            or_(models.Relationship.end_year.is_(None), models.Relationship.end_year >= year))
+    rels = list(db.scalars(q))
+    if team:
+        rels = [r for r in rels if team in (r.source.affiliations or []) or team in (r.target.affiliations or [])]
+    return rels
 
 
 def to_link(r: models.Relationship) -> schemas.GraphLink:
     return schemas.GraphLink(
         id=r.id, source=r.source_id, target=r.target_id, type=r.type, label=r.label,
-        continuity=r.continuity_id, era=r.era_id,
+        continuity=r.continuity_id, era=r.era_id, start_year=r.start_year, end_year=r.end_year,
     )
 
 
@@ -39,7 +46,8 @@ def build_graph(rels: list[models.Relationship]) -> schemas.GraphOut:
         degree[r.source_id] += 1
         degree[r.target_id] += 1
     nodes = [
-        schemas.GraphNode(id=c.id, name=c.name, color=c.color, emblem=c.emblem, degree=degree[c.id])
+        schemas.GraphNode(id=c.id, name=c.name, color=c.color, emblem=c.emblem, degree=degree[c.id],
+                          affiliations=c.affiliations)
         for c in chars.values()
     ]
     return schemas.GraphOut(nodes=nodes, links=[to_link(r) for r in rels])

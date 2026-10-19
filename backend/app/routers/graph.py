@@ -9,10 +9,12 @@ router = APIRouter(tags=["graph"])
 
 @router.get("/graph", response_model=schemas.GraphOut)
 def get_graph(continuity: str | None = Query("earth-616"), era: str | None = None, type: str | None = None,
+              year: int | None = Query(None, description="show relationships active in this year"),
+              team: str | None = Query(None, description="only relationships touching this affiliation"),
               db: Session = Depends(get_db)):
     """Nodes and links for the force-directed view. continuity=all returns every universe."""
     cont = None if continuity in (None, "all") else continuity
-    return graph.build_graph(graph.load_relationships(db, cont, era, type))
+    return graph.build_graph(graph.load_relationships(db, cont, era, type, year, team))
 
 
 @router.get("/path", response_model=schemas.PathOut)

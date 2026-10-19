@@ -65,3 +65,40 @@ def test_path_not_found_outside_continuity(client):
     # Earth-811 has no seeded relationships at all
     p = client.get("/api/path", params={"source": "wolverine", "target": "storm", "continuity": "earth-811"}).json()
     assert p["found"] is False
+
+
+def test_year_filter(client):
+    g1970 = client.get("/api/graph", params={"continuity": "earth-616", "year": 1970}).json()
+    gnow = client.get("/api/graph", params={"continuity": "earth-616"}).json()
+    assert 0 < len(g1970["links"]) < len(gnow["links"])
+    assert all(l["start_year"] <= 1970 for l in g1970["links"])
+    # Pym/Wasp marriage ended 1981: present in 1975, absent in 1990
+    ids75 = {(l["source"], l["target"]) for l in client.get("/api/graph", params={"year": 1975}).json()["links"]}
+    ids90 = {(l["source"], l["target"]) for l in client.get("/api/graph", params={"year": 1990}).json()["links"]}
+    assert ("hank-pym", "wasp") in ids75 and ("hank-pym", "wasp") not in ids90
+
+
+def test_team_filter_and_teams_endpoint(client):
+    teams = client.get("/api/teams").json()
+    assert teams[0]["name"] in ("X-Men", "Avengers")
+    g = client.get("/api/graph", params={"continuity": "all", "team": "Fantastic Four"}).json()
+    names = {n["name"] for n in g["nodes"]}
+    assert {"Mister Fantastic", "The Thing"} <= names
+
+
+def test_root_redirects_to_docs(client):
+    r = client.get("/", follow_redirects=False)
+    assert r.status_code in (307, 308) and r.headers["location"] == "/docs"
+
+
+def test_whole_graph_connected(client):
+    g = client.get("/api/graph", params={"continuity": "earth-616"}).json()
+    adj = {}
+    for l in g["links"]:
+        adj.setdefault(l["source"], set()).add(l["target"]); adj.setdefault(l["target"], set()).add(l["source"])
+    seen, stack = set(), [g["nodes"][0]["id"]]
+    while stack:
+        n = stack.pop()
+        if n in seen: continue
+        seen.add(n); stack.extend(adj.get(n, ()))
+    assert seen == {n["id"] for n in g["nodes"]}, "every 616 character should be reachable from every other"

@@ -1,6 +1,8 @@
 import os
 
 from fastapi import FastAPI
+from fastapi.responses import RedirectResponse
+from sqlalchemy import select
 from fastapi.middleware.cors import CORSMiddleware
 
 from .db import Base, engine
@@ -22,6 +24,22 @@ app.include_router(relationships.router, prefix="/api")
 app.include_router(graph.router, prefix="/api")
 
 
+@app.get("/", include_in_schema=False)
+def root():
+    return RedirectResponse("/docs")
+
+
 @app.get("/api/health")
 def health():
     return {"ok": True}
+
+
+@app.get("/api/teams")
+def teams():
+    """Affiliation names with member counts, most common first."""
+    from collections import Counter
+    from .db import SessionLocal
+    from .models import Character
+    with SessionLocal() as db:
+        c = Counter(t for ch in db.scalars(select(Character)) for t in (ch.affiliations or []))
+    return [{"name": n, "count": k} for n, k in c.most_common()]

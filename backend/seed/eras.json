@@ -89,5 +89,47 @@
     "start_year": 2012,
     "end_year": null,
     "description": "Otto Octavius as Spider-Man, Secret Wars, Miles in 616, Spencer's run, and the 2020s."
+  },
+  {
+    "id": "marvel-age",
+    "name": "Marvel Age (Avengers / FF / Thor)",
+    "start_year": 1961,
+    "end_year": 1970,
+    "description": "Fantastic Four #1 through the end of Lee/Kirby. The Avengers assemble, Cap returns, Galactus comes."
+  },
+  {
+    "id": "bronze-age",
+    "name": "Bronze Age (Avengers / FF / street)",
+    "start_year": 1970,
+    "end_year": 1985,
+    "description": "Kree–Skrull War, Korvac, the Pym scandal, Miller's Daredevil, Byrne's FF, Starlin's Thanos."
+  },
+  {
+    "id": "late-modern",
+    "name": "Late 80s and 90s (Avengers / FF)",
+    "start_year": 1985,
+    "end_year": 2000,
+    "description": "Infinity Gauntlet, Operation: Galactic Storm, Heroes Reborn, Onslaught."
+  },
+  {
+    "id": "bendis-avengers",
+    "name": "Bendis Avengers / Civil War",
+    "start_year": 2004,
+    "end_year": 2012,
+    "description": "Avengers Disassembled, New Avengers, House of M, Civil War, Secret Invasion, Siege, Dark Reign."
+  },
+  {
+    "id": "hickman-secret-wars",
+    "name": "Hickman to Secret Wars",
+    "start_year": 2012,
+    "end_year": 2015,
+    "description": "Avengers / New Avengers incursions, Infinity, Time Runs Out, Secret Wars (2015)."
+  },
+  {
+    "id": "post-secret-wars",
+    "name": "Post-Secret Wars",
+    "start_year": 2015,
+    "end_year": null,
+    "description": "All-New All-Different Marvel, Civil War II, Secret Empire, Empyre, and the 2020s."
   }
 ]
