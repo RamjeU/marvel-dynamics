@@ -1,20 +1,513 @@
 [
-  {"id": "charles-xavier", "name": "Professor X", "real_name": "Charles Francis Xavier", "aliases": ["Professor X", "Charles", "Chuck", "X"], "first_appearance": "X-Men #1 (Sept. 1963)", "creators": ["Stan Lee", "Jack Kirby"], "color": "#5B7CFA", "emblem": "X", "bio": "Telepath, founder of the X-Men and of the school that bears his name. His dream of human–mutant coexistence is the moral axis of the franchise, and nearly every relationship he has is shaped by how far he is willing to bend ethics in service of it. The Krakoan era made him a head of state and finally put him and Magneto on the same side."},
-  {"id": "magneto", "name": "Magneto", "real_name": "Max Eisenhardt (long known as Erik Lehnsherr)", "aliases": ["Magneto", "Erik", "Max", "Master of Magnetism"], "first_appearance": "X-Men #1 (Sept. 1963)", "creators": ["Stan Lee", "Jack Kirby"], "color": "#C0392B", "emblem": "M", "bio": "Holocaust survivor and mutant separatist whose conviction that humanity will never accept mutants makes him the X-Men's most durable antagonist and, repeatedly, their ally. His history with Xavier is the franchise's defining friendship-turned-rivalry."},
-  {"id": "cyclops", "name": "Cyclops", "real_name": "Scott Summers", "aliases": ["Cyclops", "Scott", "Slim"], "first_appearance": "X-Men #1 (Sept. 1963)", "creators": ["Stan Lee", "Jack Kirby"], "color": "#E74C3C", "emblem": "C", "bio": "Xavier's first student and the X-Men's longest-serving field leader. Emotionally guarded, defined by duty, and the centre of the franchise's most famous love triangle. His arc from loyal son to revolutionary (Schism, Avengers vs. X-Men) is one of the longest character arcs in comics."},
-  {"id": "jean-grey", "name": "Jean Grey", "real_name": "Jean Elaine Grey", "aliases": ["Marvel Girl", "Phoenix", "Jean", "Red"], "first_appearance": "X-Men #1 (Sept. 1963)", "creators": ["Stan Lee", "Jack Kirby"], "color": "#F39C12", "emblem": "Φ", "bio": "Telepath and telekinetic; host of the Phoenix Force. Has died and returned more than any other X-Man, which has made her relationships (especially with Scott and Logan) a recurring site of grief and resurrection."},
-  {"id": "wolverine", "name": "Wolverine", "real_name": "James Howlett / Logan", "aliases": ["Wolverine", "Logan", "Weapon X", "Patch"], "first_appearance": "Incredible Hulk #180–181 (Oct.–Nov. 1974); joined X-Men in Giant-Size X-Men #1 (May 1975)", "creators": ["Len Wein", "John Romita Sr.", "Herb Trimpe"], "color": "#F1C40F", "emblem": "W", "bio": "Feral, long-lived mutant with a healing factor and adamantium skeleton. Joined the X-Men as an outsider and became its heart. His friendships (Nightcrawler, Kitty, Storm) are among the warmest in the line; his rivalry with Cyclops is among the most bitter."},
-  {"id": "storm", "name": "Storm", "real_name": "Ororo Munroe", "aliases": ["Storm", "Ororo", "Weather Witch", "Regent of Arakko"], "first_appearance": "Giant-Size X-Men #1 (May 1975)", "creators": ["Len Wein", "Dave Cockrum"], "color": "#ECF0F1", "emblem": "S", "bio": "Weather-controlling mutant, former street thief in Cairo, worshipped as a goddess in Kenya, queen of Wakanda by marriage, and the X-Men's most frequent leader after Cyclops. A stabilising presence whose friendships are usually mentorships."},
-  {"id": "nightcrawler", "name": "Nightcrawler", "real_name": "Kurt Wagner", "aliases": ["Nightcrawler", "Kurt", "Fuzzy Elf"], "first_appearance": "Giant-Size X-Men #1 (May 1975)", "creators": ["Len Wein", "Dave Cockrum"], "color": "#2C3E90", "emblem": "N", "bio": "Teleporting, devoutly Catholic circus acrobat whose demonic appearance belies the team's gentlest temperament. The son of Mystique; best friend of Wolverine; the character most often used to argue that the X-Men's faith in people is justified."},
-  {"id": "kitty-pryde", "name": "Kate Pryde", "real_name": "Katherine Anne Pryde", "aliases": ["Kitty Pryde", "Shadowcat", "Sprite", "Ariel", "Kate", "Red Queen"], "first_appearance": "Uncanny X-Men #129 (Jan. 1980)", "creators": ["Chris Claremont", "John Byrne"], "color": "#9B59B6", "emblem": "K", "bio": "Phasing mutant introduced at thirteen as the reader's point of view; grew up on the page into a team leader, headmistress and, on Krakoa, a pirate captain. Her relationships are a map of the X-Men's generational structure: mentored by Storm and Wolverine, in love with Colossus, in conflict with Emma Frost."},
-  {"id": "colossus", "name": "Colossus", "real_name": "Piotr Nikolaievitch Rasputin", "aliases": ["Colossus", "Peter", "Piotr"], "first_appearance": "Giant-Size X-Men #1 (May 1975)", "creators": ["Len Wein", "Dave Cockrum"], "color": "#95A5A6", "emblem": "Р", "bio": "Siberian farm boy who turns to organic steel; painter; the team's conscience and its strongest body. Defined by his family (sister Illyana, brother Mikhail) and by a decades-long on-again, off-again romance with Kitty Pryde."},
-  {"id": "magik", "name": "Magik", "real_name": "Illyana Nikolievna Rasputina", "aliases": ["Magik", "Illyana", "Darkchylde", "Sorceress Supreme of Limbo"], "first_appearance": "Giant-Size X-Men #1 (May 1975); as Magik in Uncanny X-Men #160 (Aug. 1982) and the Magik limited series (1983–84)", "creators": ["Len Wein", "Dave Cockrum", "Chris Claremont", "John Buscema"], "color": "#8E44AD", "emblem": "I", "bio": "Colossus's younger sister, abducted to Limbo as a child and returned a teenage sorceress with a Soulsword and a demonic half. Her relationships are shaped by the gap between the child her brother remembers and the ruler of hell she became."},
-  {"id": "emma-frost", "name": "Emma Frost", "real_name": "Emma Grace Frost", "aliases": ["Emma Frost", "White Queen", "Emma"], "first_appearance": "Uncanny X-Men #129 (Jan. 1980)", "creators": ["Chris Claremont", "John Byrne"], "color": "#FDFEFE", "emblem": "E", "bio": "Telepath with a diamond form; former Hellfire Club White Queen turned headmistress and, eventually, one of the X-Men's most important leaders. Her move from villain to protagonist (Generation X, New X-Men) is a textbook example of a heel-face turn that stuck."},
-  {"id": "rogue", "name": "Rogue", "real_name": "Anna Marie", "aliases": ["Rogue", "Anna Marie", "Sugah"], "first_appearance": "Avengers Annual #10 (1981)", "creators": ["Chris Claremont", "Michael Golden"], "color": "#27AE60", "emblem": "R", "bio": "Power-absorbing mutant raised by Mystique as a Brotherhood operative; defected to the X-Men in Uncanny X-Men #171 (1983). For decades her power made touch itself dangerous, which turned every romance she had into a problem of intimacy."},
-  {"id": "gambit", "name": "Gambit", "real_name": "Remy Etienne LeBeau", "aliases": ["Gambit", "Remy", "Le Diable Blanc"], "first_appearance": "Uncanny X-Men #266 (Aug. 1990) (cameo in Uncanny X-Men Annual #14)", "creators": ["Chris Claremont", "Jim Lee", "Mike Collins"], "color": "#D35400", "emblem": "G", "bio": "Cajun thief who charges objects with kinetic energy. Charming, untrustworthy, and the X-Men's resident rogue; his relationship with Rogue is the longest-running romance of the 90s X-Men."},
-  {"id": "mystique", "name": "Mystique", "real_name": "Raven Darkhölme", "aliases": ["Mystique", "Raven"], "first_appearance": "Ms. Marvel #16 (Apr. 1978)", "creators": ["Chris Claremont", "Dave Cockrum"], "color": "#1A5276", "emblem": "Y", "bio": "Shapeshifter and leader of the Brotherhood; mother of Nightcrawler, foster mother of Rogue, lifelong partner of Destiny. Her relationships are the franchise's clearest study in how a villain can love people and still fail them."},
-  {"id": "destiny", "name": "Destiny", "real_name": "Irene Adler", "aliases": ["Destiny", "Irene"], "first_appearance": "Uncanny X-Men #141 (Jan. 1981)", "creators": ["Chris Claremont", "John Byrne"], "color": "#5D6D7E", "emblem": "D", "bio": "Blind precognitive mutant and Mystique's partner of decades. Claremont intended the two as a couple from the start; the relationship was stated plainly on the page only much later, and became a central thread of the Krakoan era."},
-  {"id": "beast", "name": "Beast", "real_name": "Henry Philip McCoy", "aliases": ["Beast", "Hank"], "first_appearance": "X-Men #1 (Sept. 1963)", "creators": ["Stan Lee", "Jack Kirby"], "color": "#1F618D", "emblem": "B", "bio": "Original X-Man, geneticist and the team's scientist. Oscillates between being the most humane member of the team and, in the Krakoan era, its most morally compromised."},
-  {"id": "iceman", "name": "Iceman", "real_name": "Robert Louis Drake", "aliases": ["Iceman", "Bobby"], "first_appearance": "X-Men #1 (Sept. 1963)", "creators": ["Stan Lee", "Jack Kirby"], "color": "#5DADE2", "emblem": "❄", "bio": "The youngest of the original five, a joker whose powers turned out to be far greater than anyone assumed. Came out as gay in All-New X-Men #40 (2015), a development that reframed decades of his friendships."},
-  {"id": "havok", "name": "Havok", "real_name": "Alexander Summers", "aliases": ["Havok", "Alex"], "first_appearance": "X-Men #54 (Mar. 1969)", "creators": ["Arnold Drake", "Don Heck"], "color": "#2E86C1", "emblem": "H", "bio": "Cyclops's younger brother, plasma-projecting and perpetually in Scott's shadow. Their relationship is the franchise's main study of sibling rivalry."}
+  {
+    "id": "charles-xavier",
+    "name": "Professor X",
+    "real_name": "Charles Francis Xavier",
+    "aliases": [
+      "Professor X",
+      "Charles",
+      "Chuck",
+      "X"
+    ],
+    "first_appearance": "X-Men #1 (Sept. 1963)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#5B7CFA",
+    "emblem": "X",
+    "bio": "Telepath, founder of the X-Men and of the school that bears his name. His dream of human–mutant coexistence is the moral axis of the franchise, and nearly every relationship he has is shaped by how far he is willing to bend ethics in service of it. The Krakoan era made him a head of state and finally put him and Magneto on the same side."
+  },
+  {
+    "id": "magneto",
+    "name": "Magneto",
+    "real_name": "Max Eisenhardt (long known as Erik Lehnsherr)",
+    "aliases": [
+      "Magneto",
+      "Erik",
+      "Max",
+      "Master of Magnetism"
+    ],
+    "first_appearance": "X-Men #1 (Sept. 1963)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#C0392B",
+    "emblem": "M",
+    "bio": "Holocaust survivor and mutant separatist whose conviction that humanity will never accept mutants makes him the X-Men's most durable antagonist and, repeatedly, their ally. His history with Xavier is the franchise's defining friendship-turned-rivalry."
+  },
+  {
+    "id": "cyclops",
+    "name": "Cyclops",
+    "real_name": "Scott Summers",
+    "aliases": [
+      "Cyclops",
+      "Scott",
+      "Slim"
+    ],
+    "first_appearance": "X-Men #1 (Sept. 1963)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#E74C3C",
+    "emblem": "C",
+    "bio": "Xavier's first student and the X-Men's longest-serving field leader. Emotionally guarded, defined by duty, and the centre of the franchise's most famous love triangle. His arc from loyal son to revolutionary (Schism, Avengers vs. X-Men) is one of the longest character arcs in comics."
+  },
+  {
+    "id": "jean-grey",
+    "name": "Jean Grey",
+    "real_name": "Jean Elaine Grey",
+    "aliases": [
+      "Marvel Girl",
+      "Phoenix",
+      "Jean",
+      "Red"
+    ],
+    "first_appearance": "X-Men #1 (Sept. 1963)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#F39C12",
+    "emblem": "Φ",
+    "bio": "Telepath and telekinetic; host of the Phoenix Force. Has died and returned more than any other X-Man, which has made her relationships (especially with Scott and Logan) a recurring site of grief and resurrection."
+  },
+  {
+    "id": "wolverine",
+    "name": "Wolverine",
+    "real_name": "James Howlett / Logan",
+    "aliases": [
+      "Wolverine",
+      "Logan",
+      "Weapon X",
+      "Patch"
+    ],
+    "first_appearance": "Incredible Hulk #180–181 (Oct.–Nov. 1974); joined X-Men in Giant-Size X-Men #1 (May 1975)",
+    "creators": [
+      "Len Wein",
+      "John Romita Sr.",
+      "Herb Trimpe"
+    ],
+    "color": "#F1C40F",
+    "emblem": "W",
+    "bio": "Feral, long-lived mutant with a healing factor and adamantium skeleton. Joined the X-Men as an outsider and became its heart. His friendships (Nightcrawler, Kitty, Storm) are among the warmest in the line; his rivalry with Cyclops is among the most bitter."
+  },
+  {
+    "id": "storm",
+    "name": "Storm",
+    "real_name": "Ororo Munroe",
+    "aliases": [
+      "Storm",
+      "Ororo",
+      "Weather Witch",
+      "Regent of Arakko"
+    ],
+    "first_appearance": "Giant-Size X-Men #1 (May 1975)",
+    "creators": [
+      "Len Wein",
+      "Dave Cockrum"
+    ],
+    "color": "#ECF0F1",
+    "emblem": "S",
+    "bio": "Weather-controlling mutant, former street thief in Cairo, worshipped as a goddess in Kenya, queen of Wakanda by marriage, and the X-Men's most frequent leader after Cyclops. A stabilising presence whose friendships are usually mentorships."
+  },
+  {
+    "id": "nightcrawler",
+    "name": "Nightcrawler",
+    "real_name": "Kurt Wagner",
+    "aliases": [
+      "Nightcrawler",
+      "Kurt",
+      "Fuzzy Elf"
+    ],
+    "first_appearance": "Giant-Size X-Men #1 (May 1975)",
+    "creators": [
+      "Len Wein",
+      "Dave Cockrum"
+    ],
+    "color": "#2C3E90",
+    "emblem": "N",
+    "bio": "Teleporting, devoutly Catholic circus acrobat whose demonic appearance belies the team's gentlest temperament. The son of Mystique; best friend of Wolverine; the character most often used to argue that the X-Men's faith in people is justified."
+  },
+  {
+    "id": "kitty-pryde",
+    "name": "Kate Pryde",
+    "real_name": "Katherine Anne Pryde",
+    "aliases": [
+      "Kitty Pryde",
+      "Shadowcat",
+      "Sprite",
+      "Ariel",
+      "Kate",
+      "Red Queen"
+    ],
+    "first_appearance": "Uncanny X-Men #129 (Jan. 1980)",
+    "creators": [
+      "Chris Claremont",
+      "John Byrne"
+    ],
+    "color": "#9B59B6",
+    "emblem": "K",
+    "bio": "Phasing mutant introduced at thirteen as the reader's point of view; grew up on the page into a team leader, headmistress and, on Krakoa, a pirate captain. Her relationships are a map of the X-Men's generational structure: mentored by Storm and Wolverine, in love with Colossus, in conflict with Emma Frost."
+  },
+  {
+    "id": "colossus",
+    "name": "Colossus",
+    "real_name": "Piotr Nikolaievitch Rasputin",
+    "aliases": [
+      "Colossus",
+      "Peter",
+      "Piotr"
+    ],
+    "first_appearance": "Giant-Size X-Men #1 (May 1975)",
+    "creators": [
+      "Len Wein",
+      "Dave Cockrum"
+    ],
+    "color": "#95A5A6",
+    "emblem": "Р",
+    "bio": "Siberian farm boy who turns to organic steel; painter; the team's conscience and its strongest body. Defined by his family (sister Illyana, brother Mikhail) and by a decades-long on-again, off-again romance with Kitty Pryde."
+  },
+  {
+    "id": "magik",
+    "name": "Magik",
+    "real_name": "Illyana Nikolievna Rasputina",
+    "aliases": [
+      "Magik",
+      "Illyana",
+      "Darkchylde",
+      "Sorceress Supreme of Limbo"
+    ],
+    "first_appearance": "Giant-Size X-Men #1 (May 1975); as Magik in Uncanny X-Men #160 (Aug. 1982) and the Magik limited series (1983–84)",
+    "creators": [
+      "Len Wein",
+      "Dave Cockrum",
+      "Chris Claremont",
+      "John Buscema"
+    ],
+    "color": "#8E44AD",
+    "emblem": "I",
+    "bio": "Colossus's younger sister, abducted to Limbo as a child and returned a teenage sorceress with a Soulsword and a demonic half. Her relationships are shaped by the gap between the child her brother remembers and the ruler of hell she became."
+  },
+  {
+    "id": "emma-frost",
+    "name": "Emma Frost",
+    "real_name": "Emma Grace Frost",
+    "aliases": [
+      "Emma Frost",
+      "White Queen",
+      "Emma"
+    ],
+    "first_appearance": "Uncanny X-Men #129 (Jan. 1980)",
+    "creators": [
+      "Chris Claremont",
+      "John Byrne"
+    ],
+    "color": "#FDFEFE",
+    "emblem": "E",
+    "bio": "Telepath with a diamond form; former Hellfire Club White Queen turned headmistress and, eventually, one of the X-Men's most important leaders. Her move from villain to protagonist (Generation X, New X-Men) is a textbook example of a heel-face turn that stuck."
+  },
+  {
+    "id": "rogue",
+    "name": "Rogue",
+    "real_name": "Anna Marie",
+    "aliases": [
+      "Rogue",
+      "Anna Marie",
+      "Sugah"
+    ],
+    "first_appearance": "Avengers Annual #10 (1981)",
+    "creators": [
+      "Chris Claremont",
+      "Michael Golden"
+    ],
+    "color": "#27AE60",
+    "emblem": "R",
+    "bio": "Power-absorbing mutant raised by Mystique as a Brotherhood operative; defected to the X-Men in Uncanny X-Men #171 (1983). For decades her power made touch itself dangerous, which turned every romance she had into a problem of intimacy."
+  },
+  {
+    "id": "gambit",
+    "name": "Gambit",
+    "real_name": "Remy Etienne LeBeau",
+    "aliases": [
+      "Gambit",
+      "Remy",
+      "Le Diable Blanc"
+    ],
+    "first_appearance": "Uncanny X-Men #266 (Aug. 1990) (cameo in Uncanny X-Men Annual #14)",
+    "creators": [
+      "Chris Claremont",
+      "Jim Lee",
+      "Mike Collins"
+    ],
+    "color": "#D35400",
+    "emblem": "G",
+    "bio": "Cajun thief who charges objects with kinetic energy. Charming, untrustworthy, and the X-Men's resident rogue; his relationship with Rogue is the longest-running romance of the 90s X-Men."
+  },
+  {
+    "id": "mystique",
+    "name": "Mystique",
+    "real_name": "Raven Darkhölme",
+    "aliases": [
+      "Mystique",
+      "Raven"
+    ],
+    "first_appearance": "Ms. Marvel #16 (Apr. 1978)",
+    "creators": [
+      "Chris Claremont",
+      "Dave Cockrum"
+    ],
+    "color": "#1A5276",
+    "emblem": "Y",
+    "bio": "Shapeshifter and leader of the Brotherhood; mother of Nightcrawler, foster mother of Rogue, lifelong partner of Destiny. Her relationships are the franchise's clearest study in how a villain can love people and still fail them."
+  },
+  {
+    "id": "destiny",
+    "name": "Destiny",
+    "real_name": "Irene Adler",
+    "aliases": [
+      "Destiny",
+      "Irene"
+    ],
+    "first_appearance": "Uncanny X-Men #141 (Jan. 1981)",
+    "creators": [
+      "Chris Claremont",
+      "John Byrne"
+    ],
+    "color": "#5D6D7E",
+    "emblem": "D",
+    "bio": "Blind precognitive mutant and Mystique's partner of decades. Claremont intended the two as a couple from the start; the relationship was stated plainly on the page only much later, and became a central thread of the Krakoan era."
+  },
+  {
+    "id": "beast",
+    "name": "Beast",
+    "real_name": "Henry Philip McCoy",
+    "aliases": [
+      "Beast",
+      "Hank"
+    ],
+    "first_appearance": "X-Men #1 (Sept. 1963)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#1F618D",
+    "emblem": "B",
+    "bio": "Original X-Man, geneticist and the team's scientist. Oscillates between being the most humane member of the team and, in the Krakoan era, its most morally compromised."
+  },
+  {
+    "id": "iceman",
+    "name": "Iceman",
+    "real_name": "Robert Louis Drake",
+    "aliases": [
+      "Iceman",
+      "Bobby"
+    ],
+    "first_appearance": "X-Men #1 (Sept. 1963)",
+    "creators": [
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "color": "#5DADE2",
+    "emblem": "❄",
+    "bio": "The youngest of the original five, a joker whose powers turned out to be far greater than anyone assumed. Came out as gay in All-New X-Men #40 (2015), a development that reframed decades of his friendships."
+  },
+  {
+    "id": "havok",
+    "name": "Havok",
+    "real_name": "Alexander Summers",
+    "aliases": [
+      "Havok",
+      "Alex"
+    ],
+    "first_appearance": "X-Men #54 (Mar. 1969)",
+    "creators": [
+      "Arnold Drake",
+      "Don Heck"
+    ],
+    "color": "#2E86C1",
+    "emblem": "H",
+    "bio": "Cyclops's younger brother, plasma-projecting and perpetually in Scott's shadow. Their relationship is the franchise's main study of sibling rivalry."
+  },
+  {
+    "id": "spider-man",
+    "name": "Spider-Man",
+    "real_name": "Peter Benjamin Parker",
+    "aliases": [
+      "Spider-Man",
+      "Peter",
+      "Pete",
+      "Tiger",
+      "Web-head"
+    ],
+    "first_appearance": "Amazing Fantasy #15 (Aug. 1962)",
+    "creators": [
+      "Stan Lee",
+      "Steve Ditko"
+    ],
+    "color": "#D62828",
+    "emblem": "🕷",
+    "bio": "Teenage science prodigy bitten by a radioactive spider; the first superhero written as a person with rent, a sick aunt and a bad week. His relationships are the engine of the book: every villain is someone he knows, and every love interest is someone his secret endangers."
+  },
+  {
+    "id": "mary-jane",
+    "name": "Mary Jane Watson",
+    "real_name": "Mary Jane Watson",
+    "aliases": [
+      "MJ",
+      "Mary Jane",
+      "Red"
+    ],
+    "first_appearance": "Amazing Spider-Man #25 (June 1965, face hidden); #42 (Nov. 1966)",
+    "creators": [
+      "Stan Lee",
+      "John Romita Sr."
+    ],
+    "color": "#E85D04",
+    "emblem": "MJ",
+    "bio": "Actress and model introduced as a party girl and revealed, over decades, to be the most emotionally intelligent person in Peter's life; she knew he was Spider-Man long before he told her. Wife from 1987 until One More Day (2007), which erased the marriage from continuity."
+  },
+  {
+    "id": "gwen-stacy",
+    "name": "Gwen Stacy",
+    "real_name": "Gwendolyne Maxine Stacy",
+    "aliases": [
+      "Gwen",
+      "Gwendy"
+    ],
+    "first_appearance": "Amazing Spider-Man #31 (Dec. 1965)",
+    "creators": [
+      "Stan Lee",
+      "Steve Ditko"
+    ],
+    "color": "#F4D35E",
+    "emblem": "GS",
+    "bio": "Peter's college girlfriend and first great love, killed by the Green Goblin in Amazing Spider-Man #121 (1973) — the death usually cited as the end of the Silver Age. Her absence shapes every later Spider-Man romance."
+  },
+  {
+    "id": "harry-osborn",
+    "name": "Harry Osborn",
+    "real_name": "Harold Theopolis Osborn",
+    "aliases": [
+      "Harry",
+      "Green Goblin II"
+    ],
+    "first_appearance": "Amazing Spider-Man #31 (Dec. 1965)",
+    "creators": [
+      "Stan Lee",
+      "Steve Ditko"
+    ],
+    "color": "#6A994E",
+    "emblem": "HO",
+    "bio": "Peter's best friend, roommate and, after discovering Peter's identity and his father's death, his second Green Goblin. The friendship is the series' longest study of whether loyalty survives what people become."
+  },
+  {
+    "id": "norman-osborn",
+    "name": "Green Goblin",
+    "real_name": "Norman Osborn",
+    "aliases": [
+      "Green Goblin",
+      "Norman",
+      "Iron Patriot"
+    ],
+    "first_appearance": "Amazing Spider-Man #14 (July 1964)",
+    "creators": [
+      "Stan Lee",
+      "Steve Ditko"
+    ],
+    "color": "#386641",
+    "emblem": "G",
+    "bio": "Industrialist, Harry's father and Peter's archenemy; the first villain to learn Spider-Man's identity and the one who killed Gwen Stacy. His relationship with Peter is personal in a way no other hero–villain pairing at Marvel is."
+  },
+  {
+    "id": "aunt-may",
+    "name": "Aunt May",
+    "real_name": "May Reilly Parker",
+    "aliases": [
+      "May",
+      "Aunt May"
+    ],
+    "first_appearance": "Amazing Fantasy #15 (Aug. 1962)",
+    "creators": [
+      "Stan Lee",
+      "Steve Ditko"
+    ],
+    "color": "#B7B7A4",
+    "emblem": "AM",
+    "bio": "Peter's guardian after Uncle Ben's death and the reason the secret identity matters: for forty years the book's premise was that the truth would kill her. Learned the truth in Amazing Spider-Man vol. 2 #38 (2002) and handled it better than anyone expected."
+  },
+  {
+    "id": "black-cat",
+    "name": "Black Cat",
+    "real_name": "Felicia Hardy",
+    "aliases": [
+      "Black Cat",
+      "Felicia"
+    ],
+    "first_appearance": "Amazing Spider-Man #194 (July 1979)",
+    "creators": [
+      "Marv Wolfman",
+      "Keith Pollard"
+    ],
+    "color": "#6C757D",
+    "emblem": "BC",
+    "bio": "Cat burglar who fell for Spider-Man and was openly uninterested in Peter Parker — the inverse of every other relationship he has. On-again, off-again partner, occasional antagonist, and the most consistently written adult romance in the line."
+  },
+  {
+    "id": "venom",
+    "name": "Venom",
+    "real_name": "Edward Charles Allan Brock",
+    "aliases": [
+      "Venom",
+      "Eddie Brock",
+      "Lethal Protector"
+    ],
+    "first_appearance": "Amazing Spider-Man #300 (May 1988) (symbiote: Secret Wars #8, 1984)",
+    "creators": [
+      "David Michelinie",
+      "Todd McFarlane"
+    ],
+    "color": "#212529",
+    "emblem": "V",
+    "bio": "Disgraced journalist bonded with the alien symbiote Peter rejected; both of them blame Spider-Man for ruining their lives. Began as a horror villain, became an anti-hero, and has spent the 2010s and 2020s as a protagonist in his own right."
+  },
+  {
+    "id": "doctor-octopus",
+    "name": "Doctor Octopus",
+    "real_name": "Otto Gunther Octavius",
+    "aliases": [
+      "Doctor Octopus",
+      "Doc Ock",
+      "Otto",
+      "Superior Spider-Man"
+    ],
+    "first_appearance": "Amazing Spider-Man #3 (July 1963)",
+    "creators": [
+      "Stan Lee",
+      "Steve Ditko"
+    ],
+    "color": "#5A189A",
+    "emblem": "8",
+    "bio": "Scientist with four mechanical arms; the first villain to beat Spider-Man outright. Swapped minds with Peter in Amazing Spider-Man #698–700 (2012) and spent thirty issues as the Superior Spider-Man, which turned a rivalry into something closer to a shared identity."
+  },
+  {
+    "id": "miles-morales",
+    "name": "Miles Morales",
+    "real_name": "Miles Gonzalo Morales",
+    "aliases": [
+      "Spider-Man",
+      "Miles",
+      "Kid Arachnid"
+    ],
+    "first_appearance": "Ultimate Fallout #4 (Aug. 2011)",
+    "creators": [
+      "Brian Michael Bendis",
+      "Sara Pichelli"
+    ],
+    "color": "#000000",
+    "emblem": "MM",
+    "bio": "Brooklyn teenager who became Spider-Man after Peter Parker's death in the Ultimate universe, then migrated to Earth-616 in Secret Wars (2015), where two Spider-Men now coexist. His relationship with Peter is a mentorship neither of them planned."
+  }
 ]
